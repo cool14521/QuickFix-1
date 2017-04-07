@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickFixManager.Initiator", "QuickFixManager.Initiator\QuickFixManager.Initiator.csproj", "{6882471C-7EFE-4FBA-AA7B-696D61AD76D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickFixManager.Acceptor", "QuickFixManager.Acceptor\QuickFixManager.Acceptor.csproj", "{446644E7-D691-49FC-8AB1-4BAC1798A61A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickFixManager.Data", "QuickFixManager.Data\QuickFixManager.Data.csproj", "{A811390B-2C0C-46D3-8EE2-845FC04D3318}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickFixManager.Application", "QuickFixManager.Application\QuickFixManager.Application.csproj", "{65EDBA82-A85E-4E30-8515-0884C4DC345E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickFix", "QuickFIXn\QuickFix.csproj", "{D67079DA-6C49-48B2-93AB-1C3E879F5A0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6882471C-7EFE-4FBA-AA7B-696D61AD76D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6882471C-7EFE-4FBA-AA7B-696D61AD76D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6882471C-7EFE-4FBA-AA7B-696D61AD76D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6882471C-7EFE-4FBA-AA7B-696D61AD76D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{446644E7-D691-49FC-8AB1-4BAC1798A61A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{446644E7-D691-49FC-8AB1-4BAC1798A61A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{446644E7-D691-49FC-8AB1-4BAC1798A61A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{446644E7-D691-49FC-8AB1-4BAC1798A61A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A811390B-2C0C-46D3-8EE2-845FC04D3318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A811390B-2C0C-46D3-8EE2-845FC04D3318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A811390B-2C0C-46D3-8EE2-845FC04D3318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A811390B-2C0C-46D3-8EE2-845FC04D3318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65EDBA82-A85E-4E30-8515-0884C4DC345E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65EDBA82-A85E-4E30-8515-0884C4DC345E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65EDBA82-A85E-4E30-8515-0884C4DC345E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65EDBA82-A85E-4E30-8515-0884C4DC345E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D67079DA-6C49-48B2-93AB-1C3E879F5A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67079DA-6C49-48B2-93AB-1C3E879F5A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67079DA-6C49-48B2-93AB-1C3E879F5A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67079DA-6C49-48B2-93AB-1C3E879F5A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

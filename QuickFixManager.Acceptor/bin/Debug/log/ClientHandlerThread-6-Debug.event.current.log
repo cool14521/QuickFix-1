@@ -1,0 +1,55 @@
+20170405-13:27:08.572 : connected
+20170405-13:27:08.628 : shutdown requested: Disconnected
+20170405-13:27:08.628 : shutdown
+20170405-13:28:22.820 : connected
+20170405-13:28:22.853 : shutdown requested: Disconnected
+20170405-13:28:22.853 : shutdown
+20170405-13:30:11.243 : connected
+20170405-13:30:11.275 : shutdown requested: Disconnected
+20170405-13:30:11.275 : shutdown
+20170405-13:32:03.634 : connected
+20170405-13:32:03.656 : shutdown requested: Disconnected
+20170405-13:32:03.657 : shutdown
+20170406-15:04:21.751 : connected
+20170406-15:04:21.779 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.29=7735=A34=149=SABERIN52=20170406-15:04:21.76556=INITIATOR98=0108=30141=Y10=233
+20170406-15:04:21.789 : SocketReader Error: System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds) in D:\GIT\training\quickfixn\QuickFIXn\SocketReader.cs:line 82
+   at QuickFix.SocketReader.Read() in D:\GIT\training\quickfixn\QuickFIXn\SocketReader.cs:line 44
+20170406-15:04:21.799 : shutdown requested: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+20170406-15:04:21.799 : shutdown
+20170406-17:02:41.413 : connected
+20170406-17:02:41.447 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.29=7035=A34=149=TW52=20170406-17:02:41.42856=SABERIN98=0108=30141=Y10=216
+20170406-17:02:41.459 : SocketReader Error: System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds) in D:\GIT\training\quickfixn\QuickFIXn\SocketReader.cs:line 82
+   at QuickFix.SocketReader.Read() in D:\GIT\training\quickfixn\QuickFIXn\SocketReader.cs:line 44
+20170406-17:02:41.475 : shutdown requested: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+20170406-17:02:41.475 : shutdown
+20170406-17:04:00.064 : connected
+20170406-17:04:00.079 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.29=6435=A34=749=TW52=20170406-17:04:00.06356=SABERIN98=0108=3010=172
+20170406-17:04:00.120 : SocketReader Error: System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds) in D:\GIT\training\quickfixn\QuickFIXn\SocketReader.cs:line 82
+   at QuickFix.SocketReader.Read() in D:\GIT\training\quickfixn\QuickFIXn\SocketReader.cs:line 44
+20170406-17:04:00.141 : shutdown requested: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+20170406-17:04:00.141 : shutdown
+20170406-17:54:57.303 : connected
+20170406-17:54:57.338 : shutdown requested: Disconnected
+20170406-17:54:57.338 : shutdown
+20170406-18:47:03.598 : connected
+20170406-18:47:51.325 : SocketReader Error: Socket exception (127.0.0.1:52091): An existing connection was forcibly closed by the remote host
+20170406-18:47:51.325 : shutdown requested: Disconnected
+20170406-18:47:51.446 : shutdown requested: An existing connection was forcibly closed by the remote host
+20170406-18:47:51.447 : shutdown
+20170406-20:31:51.962 : connected
+20170406-20:32:39.914 : SocketReader Error: Socket exception (127.0.0.1:64753): An existing connection was forcibly closed by the remote host
+20170406-20:32:39.914 : shutdown requested: Disconnected
+20170406-20:32:39.960 : shutdown requested: An existing connection was forcibly closed by the remote host
+20170406-20:32:39.960 : shutdown

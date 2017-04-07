@@ -1,0 +1,98 @@
+20170406-16:46:22.643 : Created session
+20170406-16:46:22.737 : Connecting to 127.0.0.1 on port 5001
+20170406-16:46:22.745 : Connection succeeded
+20170406-16:46:22.793 : Session reset: ResetOnLogon
+20170406-16:46:22.813 : Session reset: ResetSeqNumFlag
+20170406-16:46:22.836 : Initiated logon request
+20170406-16:46:23.128 : Received logon
+20170406-16:47:00.728 : Created session
+20170406-16:47:00.782 : Connecting to 127.0.0.1 on port 5001
+20170406-16:47:00.795 : Connection succeeded
+20170406-16:47:00.840 : Session reset: ResetOnLogon
+20170406-16:47:00.869 : Session reset: ResetSeqNumFlag
+20170406-16:47:00.898 : Initiated logon request
+20170406-16:47:00.975 : Received logon
+20170406-16:47:33.120 : Created session
+20170406-16:47:33.155 : Connecting to 127.0.0.1 on port 5001
+20170406-16:47:33.165 : Connection succeeded
+20170406-16:47:33.202 : Session reset: ResetOnLogon
+20170406-16:47:33.223 : Session reset: ResetSeqNumFlag
+20170406-16:47:33.251 : Initiated logon request
+20170406-16:47:33.330 : Received logon
+20170406-16:47:33.331 : Initiated logout request
+20170406-16:47:33.338 : Received logout response
+20170406-16:47:33.403 : Session reset: ResetOnLogout
+20170406-16:47:33.404 : Session FIX.4.2:SABERIN->ACCEPTOR disconnecting: Received logout response
+20170406-16:47:33.416 : Session reset: ResetOnDisconnect
+20170406-16:47:59.961 : Created session
+20170406-16:48:09.898 : Connecting to 127.0.0.1 on port 5001
+20170406-16:48:09.911 : Connection succeeded
+20170406-16:48:24.218 : Created session
+20170406-16:48:26.260 : Connecting to 127.0.0.1 on port 5001
+20170406-16:48:26.273 : Connection succeeded
+20170406-16:48:30.549 : Session reset: ResetOnLogon
+20170406-16:48:34.527 : Initiated logon request
+20170406-16:48:34.660 : Session FIX.4.2:SABERIN->ACCEPTOR disconnecting: System.Net.Sockets.SocketException (0x80004005): An established connection was aborted by the software in your host machine
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds) in D:\GIT\training\quickfixn\QuickFIXn\SocketInitiatorThread.cs:line 172
+   at QuickFix.SocketInitiatorThread.Read() in D:\GIT\training\quickfixn\QuickFIXn\SocketInitiatorThread.cs:line 82
+20170406-16:48:34.693 : Session reset: ResetOnDisconnect
+20170406-16:48:43.532 : Created session
+20170406-16:48:45.175 : Connecting to 127.0.0.1 on port 5001
+20170406-16:48:45.185 : Connection succeeded
+20170406-16:48:45.234 : Session reset: ResetOnLogon
+20170406-16:48:45.272 : Session reset: ResetSeqNumFlag
+20170406-16:48:45.273 : Initiated logon request
+20170406-16:48:45.349 : Session FIX.4.2:SABERIN->ACCEPTOR disconnecting: System.Net.Sockets.SocketException (0x80004005): An established connection was aborted by the software in your host machine
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds) in D:\GIT\training\quickfixn\QuickFIXn\SocketInitiatorThread.cs:line 172
+   at QuickFix.SocketInitiatorThread.Read() in D:\GIT\training\quickfixn\QuickFIXn\SocketInitiatorThread.cs:line 82
+20170406-16:48:45.373 : Session reset: ResetOnDisconnect
+20170406-16:58:44.961 : Created session
+20170406-16:58:49.255 : Connecting to 127.0.0.1 on port 5001
+20170406-16:58:49.271 : Connection succeeded
+20170406-16:58:49.315 : Session reset: ResetOnLogon
+20170406-16:58:49.322 : Initiated logon request
+20170406-16:58:49.552 : Session FIX.4.2:SABERIN->ACCEPTOR disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds) in D:\GIT\training\quickfixn\QuickFIXn\SocketInitiatorThread.cs:line 172
+   at QuickFix.SocketInitiatorThread.Read() in D:\GIT\training\quickfixn\QuickFIXn\SocketInitiatorThread.cs:line 82
+20170406-16:58:49.603 : Session reset: ResetOnDisconnect
+20170406-17:00:56.280 : Created session
+20170406-17:00:58.417 : Connecting to 127.0.0.1 on port 5001
+20170406-17:00:58.428 : Connection succeeded
+20170406-17:00:58.471 : Session reset: ResetOnLogon
+20170406-17:00:58.510 : Session reset: ResetSeqNumFlag
+20170406-17:00:58.513 : Initiated logon request
+20170406-17:00:58.738 : Session FIX.4.2:SABERIN->ACCEPTOR disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds) in D:\GIT\training\quickfixn\QuickFIXn\SocketInitiatorThread.cs:line 172
+   at QuickFix.SocketInitiatorThread.Read() in D:\GIT\training\quickfixn\QuickFIXn\SocketInitiatorThread.cs:line 82
+20170406-17:00:58.794 : Session reset: ResetOnDisconnect
+20170406-17:14:32.240 : Created session
+20170406-17:14:32.279 : Connecting to 127.0.0.1 on port 5001
+20170406-17:14:32.358 : Connection succeeded
+20170406-17:14:32.402 : Session reset: ResetOnLogon
+20170406-17:14:32.455 : Session reset: ResetSeqNumFlag
+20170406-17:14:32.458 : Initiated logon request
+20170406-17:14:32.674 : Received logon
+20170406-17:14:32.675 : Initiated logout request
+20170406-17:14:32.726 : Received logout response
+20170406-17:14:32.758 : Session reset: ResetOnLogout
+20170406-17:14:32.759 : Session FIX.4.2:SABERIN->ACCEPTOR disconnecting: Received logout response
+20170406-17:14:32.775 : Session reset: ResetOnDisconnect
+20170406-17:14:41.919 : Created session
+20170406-17:14:41.951 : Connecting to 127.0.0.1 on port 5001
+20170406-17:14:41.964 : Connection succeeded
+20170406-17:14:42.007 : Session reset: ResetOnLogon
+20170406-17:14:42.024 : Initiated logon request
+20170406-17:14:42.135 : Session FIX.4.2:SABERIN->ACCEPTOR disconnecting: System.Net.Sockets.SocketException (0x80004005): An established connection was aborted by the software in your host machine
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds) in D:\GIT\training\quickfixn\QuickFIXn\SocketInitiatorThread.cs:line 172
+   at QuickFix.SocketInitiatorThread.Read() in D:\GIT\training\quickfixn\QuickFIXn\SocketInitiatorThread.cs:line 82
+20170406-17:14:42.168 : Session reset: ResetOnDisconnect
+20170406-17:14:50.003 : Created session
+20170406-17:14:50.047 : Connecting to 127.0.0.1 on port 5001
+20170406-17:14:50.064 : Connection succeeded
+20170406-17:14:50.112 : Session reset: ResetOnLogon
+20170406-17:14:50.158 : Session reset: ResetSeqNumFlag
+20170406-17:14:50.160 : Initiated logon request
+20170406-17:14:50.319 : Session FIX.4.2:SABERIN->ACCEPTOR disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds) in D:\GIT\training\quickfixn\QuickFIXn\SocketInitiatorThread.cs:line 155
+   at QuickFix.SocketInitiatorThread.Read() in D:\GIT\training\quickfixn\QuickFIXn\SocketInitiatorThread.cs:line 82
+20170406-17:14:50.364 : Session reset: ResetOnDisconnect

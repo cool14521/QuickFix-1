@@ -1,0 +1,14 @@
+D:\GIT\tpa\tpa-tnet\QuickFix\QuickFixManager.Data\bin\Debug\QuickFixManager.Data.dll
+D:\GIT\tpa\tpa-tnet\QuickFix\QuickFixManager.Data\bin\Debug\QuickFixManager.Data.pdb
+D:\GIT\tpa\tpa-tnet\QuickFix\QuickFixManager.Data\bin\Debug\QuickFix.dll
+D:\GIT\tpa\tpa-tnet\QuickFix\QuickFixManager.Data\obj\Debug\QuickFixManager.Data.csprojResolveAssemblyReference.cache
+D:\GIT\tpa\tpa-tnet\QuickFix\QuickFixManager.Data\obj\Debug\QuickFixManager.Data.dll
+D:\GIT\tpa\tpa-tnet\QuickFix\QuickFixManager.Data\obj\Debug\QuickFixManager.Data.pdb
+D:\GIT\tpa\tpa-tnet\QuickFix\QuickFixManager.Data\bin\Debug\QuickFix.pdb
+D:\GIT\training\QuickFixManager\QuickFixManager.Data\bin\Debug\QuickFixManager.Data.dll
+D:\GIT\training\QuickFixManager\QuickFixManager.Data\bin\Debug\QuickFixManager.Data.pdb
+D:\GIT\training\QuickFixManager\QuickFixManager.Data\bin\Debug\QuickFix.dll
+D:\GIT\training\QuickFixManager\QuickFixManager.Data\bin\Debug\QuickFix.pdb
+D:\GIT\training\QuickFixManager\QuickFixManager.Data\obj\Debug\QuickFixManager.Data.csprojResolveAssemblyReference.cache
+D:\GIT\training\QuickFixManager\QuickFixManager.Data\obj\Debug\QuickFixManager.Data.dll
+D:\GIT\training\QuickFixManager\QuickFixManager.Data\obj\Debug\QuickFixManager.Data.pdb

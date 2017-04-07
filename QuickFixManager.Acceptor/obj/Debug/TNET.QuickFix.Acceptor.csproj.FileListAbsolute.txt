@@ -1,0 +1,3 @@
+D:\GIT\tpa\tpa-tnet\TNET.QuickFix\TNET.QuickFix\bin\Debug\TNET.QuickFix.exe.config
+D:\GIT\tpa\tpa-tnet\TNET.QuickFix\TNET.QuickFix\obj\Debug\TNET.QuickFix.exe
+D:\GIT\tpa\tpa-tnet\TNET.QuickFix\TNET.QuickFix\obj\Debug\TNET.QuickFix.pdb

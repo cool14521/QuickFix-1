@@ -1,0 +1,22 @@
+20170405-13:27:24.593 : connected
+20170405-13:27:24.634 : shutdown requested: Disconnected
+20170405-13:27:24.634 : shutdown
+20170405-13:28:38.915 : connected
+20170405-13:28:38.946 : shutdown requested: Disconnected
+20170405-13:28:38.946 : shutdown
+20170405-13:30:38.538 : connected
+20170405-13:30:38.544 : shutdown requested: Disconnected
+20170405-13:30:38.545 : shutdown
+20170405-13:32:19.653 : connected
+20170405-13:32:19.670 : shutdown requested: Disconnected
+20170405-13:32:19.671 : shutdown
+20170406-17:04:16.084 : connected
+20170406-17:04:16.091 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.29=6535=A34=1549=TW52=20170406-17:04:16.08356=SABERIN98=0108=3010=229
+20170406-17:04:16.103 : SocketReader Error: System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds) in D:\GIT\training\quickfixn\QuickFIXn\SocketReader.cs:line 82
+   at QuickFix.SocketReader.Read() in D:\GIT\training\quickfixn\QuickFIXn\SocketReader.cs:line 44
+20170406-17:04:16.117 : shutdown requested: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+20170406-17:04:16.117 : shutdown

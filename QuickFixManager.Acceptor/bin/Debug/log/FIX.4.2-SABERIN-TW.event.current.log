@@ -1,0 +1,789 @@
+20170405-13:13:45.324 : Created session
+20170405-13:13:49.447 : FIX.4.2:SABERIN->TW Socket Reader 61325552 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53056
+20170405-13:13:49.447 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:13:49.517 : Received logon
+20170405-13:13:49.538 : Responding to logon request
+20170405-13:26:56.637 : Created session
+20170405-13:26:57.321 : FIX.4.2:SABERIN->TW Socket Reader 61325552 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53361
+20170405-13:26:57.321 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:26:57.381 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:26:57.391 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:26:58.605 : FIX.4.2:SABERIN->TW Socket Reader 23324256 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53405
+20170405-13:26:58.606 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:26:58.606 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:26:58.607 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:00.604 : FIX.4.2:SABERIN->TW Socket Reader 34250480 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53425
+20170405-13:27:00.604 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:27:00.605 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:00.605 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:02.598 : FIX.4.2:SABERIN->TW Socket Reader 58408916 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53426
+20170405-13:27:02.598 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:27:02.599 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:02.599 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:04.598 : FIX.4.2:SABERIN->TW Socket Reader 2348279 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53427
+20170405-13:27:04.599 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:27:04.599 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:04.599 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:06.600 : FIX.4.2:SABERIN->TW Socket Reader 61669314 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53428
+20170405-13:27:06.600 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:27:06.601 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:06.601 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:08.626 : FIX.4.2:SABERIN->TW Socket Reader 36865354 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53429
+20170405-13:27:08.627 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:27:08.628 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:08.628 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:10.601 : FIX.4.2:SABERIN->TW Socket Reader 3196068 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53431
+20170405-13:27:10.601 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:27:10.602 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:10.602 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:12.603 : FIX.4.2:SABERIN->TW Socket Reader 4186222 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53432
+20170405-13:27:12.603 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:27:12.604 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:12.604 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:14.600 : FIX.4.2:SABERIN->TW Socket Reader 764807 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53433
+20170405-13:27:14.600 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:27:14.600 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:14.600 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:16.618 : FIX.4.2:SABERIN->TW Socket Reader 10479095 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53434
+20170405-13:27:16.618 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:27:16.619 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:16.619 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:18.612 : FIX.4.2:SABERIN->TW Socket Reader 4684807 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53435
+20170405-13:27:18.612 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:27:18.613 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:18.613 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:20.617 : FIX.4.2:SABERIN->TW Socket Reader 41662089 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53436
+20170405-13:27:20.617 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:27:20.618 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:20.618 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:22.627 : FIX.4.2:SABERIN->TW Socket Reader 46338128 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53437
+20170405-13:27:22.627 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:27:22.633 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:22.633 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:24.632 : FIX.4.2:SABERIN->TW Socket Reader 28975576 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53438
+20170405-13:27:24.632 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:27:24.634 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:24.634 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:26.647 : FIX.4.2:SABERIN->TW Socket Reader 11942173 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53439
+20170405-13:27:26.647 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:27:26.650 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:26.650 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:28.622 : FIX.4.2:SABERIN->TW Socket Reader 40054951 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53440
+20170405-13:27:28.623 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:27:28.624 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:28.624 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:35.330 : FIX.4.2:SABERIN->TW Socket Reader 9985467 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53485
+20170405-13:27:35.330 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:27:35.331 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:35.331 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:37.274 : FIX.4.2:SABERIN->TW Socket Reader 19425995 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53520
+20170405-13:27:37.274 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:27:37.275 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:37.275 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:39.251 : FIX.4.2:SABERIN->TW Socket Reader 34478086 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53522
+20170405-13:27:39.252 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:27:39.253 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:39.253 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:41.247 : FIX.4.2:SABERIN->TW Socket Reader 42506536 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53523
+20170405-13:27:41.247 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:27:41.249 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:41.249 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:43.251 : FIX.4.2:SABERIN->TW Socket Reader 26676330 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53524
+20170405-13:27:43.251 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:27:43.252 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:43.252 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:45.243 : FIX.4.2:SABERIN->TW Socket Reader 13812657 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53525
+20170405-13:27:45.243 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:27:45.246 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:45.246 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:47.269 : FIX.4.2:SABERIN->TW Socket Reader 61488610 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53526
+20170405-13:27:47.269 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:27:47.270 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:47.270 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:49.273 : FIX.4.2:SABERIN->TW Socket Reader 31009643 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53528
+20170405-13:27:49.273 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:27:49.274 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:49.274 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:51.257 : FIX.4.2:SABERIN->TW Socket Reader 42212859 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53529
+20170405-13:27:51.258 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:27:51.259 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:51.259 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:53.258 : FIX.4.2:SABERIN->TW Socket Reader 36831338 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53532
+20170405-13:27:53.258 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:27:53.259 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:53.259 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:55.260 : FIX.4.2:SABERIN->TW Socket Reader 31365329 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53534
+20170405-13:27:55.260 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:27:55.261 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:55.261 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:57.261 : FIX.4.2:SABERIN->TW Socket Reader 3183570 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53536
+20170405-13:27:57.262 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:27:57.263 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:57.263 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:59.280 : FIX.4.2:SABERIN->TW Socket Reader 48258320 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53540
+20170405-13:27:59.280 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:27:59.281 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:27:59.281 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:05.909 : Created session
+20170405-13:28:11.001 : FIX.4.2:SABERIN->TW Socket Reader 38583594 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53691
+20170405-13:28:11.001 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:28:11.074 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:11.075 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:12.851 : FIX.4.2:SABERIN->TW Socket Reader 49538252 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53718
+20170405-13:28:12.852 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:28:12.853 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:12.853 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:14.837 : FIX.4.2:SABERIN->TW Socket Reader 21647132 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53719
+20170405-13:28:14.837 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:28:14.838 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:14.838 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:16.855 : FIX.4.2:SABERIN->TW Socket Reader 6451435 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53720
+20170405-13:28:16.855 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:28:16.856 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:16.856 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:18.849 : FIX.4.2:SABERIN->TW Socket Reader 34717384 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53723
+20170405-13:28:18.849 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:28:18.850 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:18.850 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:20.850 : FIX.4.2:SABERIN->TW Socket Reader 22460983 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53725
+20170405-13:28:20.850 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:28:20.851 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:20.851 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:22.852 : FIX.4.2:SABERIN->TW Socket Reader 10209043 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53726
+20170405-13:28:22.852 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:28:22.853 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:22.853 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:24.849 : FIX.4.2:SABERIN->TW Socket Reader 3196068 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53727
+20170405-13:28:24.849 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:28:24.850 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:24.850 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:26.893 : FIX.4.2:SABERIN->TW Socket Reader 4186222 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53728
+20170405-13:28:26.893 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:28:26.895 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:26.895 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:28.867 : FIX.4.2:SABERIN->TW Socket Reader 764807 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53731
+20170405-13:28:28.867 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:28:28.868 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:28.868 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:30.859 : FIX.4.2:SABERIN->TW Socket Reader 10479095 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53732
+20170405-13:28:30.859 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:28:30.860 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:30.860 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:32.858 : FIX.4.2:SABERIN->TW Socket Reader 4684807 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53733
+20170405-13:28:32.858 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:28:32.859 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:32.860 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:34.870 : FIX.4.2:SABERIN->TW Socket Reader 41662089 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53734
+20170405-13:28:34.870 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:28:34.871 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:34.871 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:37.002 : FIX.4.2:SABERIN->TW Socket Reader 46338128 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53735
+20170405-13:28:37.002 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:28:37.003 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:37.003 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:38.945 : FIX.4.2:SABERIN->TW Socket Reader 28975576 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53737
+20170405-13:28:38.945 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:28:38.946 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:38.946 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:40.948 : FIX.4.2:SABERIN->TW Socket Reader 11942173 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53738
+20170405-13:28:40.948 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:28:40.949 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:40.949 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:42.945 : FIX.4.2:SABERIN->TW Socket Reader 40054951 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53739
+20170405-13:28:42.945 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:28:42.946 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:42.946 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:44.963 : FIX.4.2:SABERIN->TW Socket Reader 44258815 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53745
+20170405-13:28:44.963 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:28:44.964 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:44.964 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:46.947 : FIX.4.2:SABERIN->TW Socket Reader 32981581 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53749
+20170405-13:28:46.947 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:28:46.949 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:46.949 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:48.960 : FIX.4.2:SABERIN->TW Socket Reader 23214600 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53750
+20170405-13:28:48.961 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:28:48.962 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:48.962 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:50.949 : FIX.4.2:SABERIN->TW Socket Reader 13444298 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53751
+20170405-13:28:50.950 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:28:50.950 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:50.951 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:52.979 : FIX.4.2:SABERIN->TW Socket Reader 59832539 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53752
+20170405-13:28:52.979 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:28:52.979 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:52.979 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:54.973 : FIX.4.2:SABERIN->TW Socket Reader 16896302 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53755
+20170405-13:28:54.973 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:28:54.975 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:54.975 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:56.973 : FIX.4.2:SABERIN->TW Socket Reader 39195933 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53756
+20170405-13:28:56.973 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:28:56.974 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:56.974 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:58.982 : FIX.4.2:SABERIN->TW Socket Reader 20322830 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53757
+20170405-13:28:58.982 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:28:58.983 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:28:58.983 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:00.988 : FIX.4.2:SABERIN->TW Socket Reader 22109964 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53759
+20170405-13:29:00.988 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:29:00.990 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:00.990 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:02.980 : FIX.4.2:SABERIN->TW Socket Reader 61199182 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53761
+20170405-13:29:02.980 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:29:02.981 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:02.981 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:04.983 : FIX.4.2:SABERIN->TW Socket Reader 28324274 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53762
+20170405-13:29:04.983 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:29:04.984 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:04.984 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:06.985 : FIX.4.2:SABERIN->TW Socket Reader 10390562 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53763
+20170405-13:29:06.985 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:29:06.987 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:06.987 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:09.012 : FIX.4.2:SABERIN->TW Socket Reader 61659884 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53766
+20170405-13:29:09.012 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:29:09.013 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:09.013 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:10.999 : FIX.4.2:SABERIN->TW Socket Reader 9565454 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53769
+20170405-13:29:10.999 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:29:11.000 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:11.000 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:12.992 : FIX.4.2:SABERIN->TW Socket Reader 22015846 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53770
+20170405-13:29:12.992 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:29:12.993 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:12.993 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:14.990 : FIX.4.2:SABERIN->TW Socket Reader 23310821 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53771
+20170405-13:29:14.990 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:29:14.991 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:14.991 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:16.997 : FIX.4.2:SABERIN->TW Socket Reader 52415132 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53772
+20170405-13:29:16.997 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:29:16.998 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:16.998 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:19.006 : FIX.4.2:SABERIN->TW Socket Reader 53696460 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53773
+20170405-13:29:19.006 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:29:19.008 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:19.008 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:20.995 : FIX.4.2:SABERIN->TW Socket Reader 51608281 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53774
+20170405-13:29:20.995 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:29:20.995 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:20.996 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:22.991 : FIX.4.2:SABERIN->TW Socket Reader 12867382 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53775
+20170405-13:29:22.991 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:29:22.992 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:22.992 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:24.988 : FIX.4.2:SABERIN->TW Socket Reader 6773050 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53776
+20170405-13:29:24.988 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:29:24.989 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:24.989 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:26.993 : FIX.4.2:SABERIN->TW Socket Reader 8819177 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53777
+20170405-13:29:26.993 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:29:26.994 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:26.994 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:29.046 : FIX.4.2:SABERIN->TW Socket Reader 26906027 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53778
+20170405-13:29:29.046 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:29:29.047 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:29.047 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:31.020 : FIX.4.2:SABERIN->TW Socket Reader 48454903 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53779
+20170405-13:29:31.020 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:29:31.021 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:31.021 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:33.005 : FIX.4.2:SABERIN->TW Socket Reader 44416744 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53780
+20170405-13:29:33.005 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:29:33.006 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:33.006 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:35.014 : FIX.4.2:SABERIN->TW Socket Reader 43232965 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53781
+20170405-13:29:35.014 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:29:35.015 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:35.016 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:37.001 : FIX.4.2:SABERIN->TW Socket Reader 35925628 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53782
+20170405-13:29:37.002 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:29:37.003 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:37.003 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:39.006 : FIX.4.2:SABERIN->TW Socket Reader 35993863 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53783
+20170405-13:29:39.006 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:29:39.007 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:39.007 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:54.834 : Created session
+20170405-13:29:55.219 : FIX.4.2:SABERIN->TW Socket Reader 38583594 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53835
+20170405-13:29:55.219 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:29:55.325 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:29:55.326 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:30:01.391 : FIX.4.2:SABERIN->TW Socket Reader 49538252 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53893
+20170405-13:30:01.391 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:30:01.392 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:30:01.392 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:30:03.278 : FIX.4.2:SABERIN->TW Socket Reader 26066236 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53894
+20170405-13:30:03.278 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:30:03.280 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:30:03.280 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:30:05.269 : FIX.4.2:SABERIN->TW Socket Reader 58408916 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53895
+20170405-13:30:05.269 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:30:05.270 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:30:05.270 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:30:07.274 : FIX.4.2:SABERIN->TW Socket Reader 2348279 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53896
+20170405-13:30:07.274 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:30:07.275 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:30:07.275 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:30:09.270 : FIX.4.2:SABERIN->TW Socket Reader 61669314 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53897
+20170405-13:30:09.270 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:30:09.271 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:30:09.271 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:30:11.273 : FIX.4.2:SABERIN->TW Socket Reader 36865354 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53899
+20170405-13:30:11.274 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:30:11.275 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:30:11.275 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:30:24.620 : FIX.4.2:SABERIN->TW Socket Reader 45170398 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53905
+20170405-13:30:24.624 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:30:24.625 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:30:24.626 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:30:26.532 : FIX.4.2:SABERIN->TW Socket Reader 56772630 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53908
+20170405-13:30:26.532 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:30:26.534 : Verify failed: MsgSeqNum too low, expecting 26 but received 2
+20170405-13:30:26.534 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 2
+20170405-13:30:28.533 : FIX.4.2:SABERIN->TW Socket Reader 18701856 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53909
+20170405-13:30:28.533 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:30:28.533 : Verify failed: MsgSeqNum too low, expecting 26 but received 3
+20170405-13:30:28.533 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 3
+20170405-13:30:30.539 : FIX.4.2:SABERIN->TW Socket Reader 24319432 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53910
+20170405-13:30:30.539 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:30:30.540 : Verify failed: MsgSeqNum too low, expecting 26 but received 4
+20170405-13:30:30.540 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 4
+20170405-13:30:32.536 : FIX.4.2:SABERIN->TW Socket Reader 5655257 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53911
+20170405-13:30:32.536 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:30:32.537 : Verify failed: MsgSeqNum too low, expecting 26 but received 5
+20170405-13:30:32.537 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 5
+20170405-13:30:34.537 : FIX.4.2:SABERIN->TW Socket Reader 22724141 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53912
+20170405-13:30:34.537 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:30:34.538 : Verify failed: MsgSeqNum too low, expecting 26 but received 6
+20170405-13:30:34.538 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 6
+20170405-13:30:36.541 : FIX.4.2:SABERIN->TW Socket Reader 13071877 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53913
+20170405-13:30:36.541 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:30:36.541 : Verify failed: MsgSeqNum too low, expecting 26 but received 7
+20170405-13:30:36.541 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 7
+20170405-13:30:38.544 : FIX.4.2:SABERIN->TW Socket Reader 30404427 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53914
+20170405-13:30:38.544 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:30:38.544 : Verify failed: MsgSeqNum too low, expecting 26 but received 8
+20170405-13:30:38.544 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 8
+20170405-13:30:40.545 : FIX.4.2:SABERIN->TW Socket Reader 7097809 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53916
+20170405-13:30:40.546 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:30:40.546 : Verify failed: MsgSeqNum too low, expecting 26 but received 9
+20170405-13:30:40.546 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 9
+20170405-13:30:42.546 : FIX.4.2:SABERIN->TW Socket Reader 35687028 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53917
+20170405-13:30:42.546 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:30:42.547 : Verify failed: MsgSeqNum too low, expecting 26 but received 10
+20170405-13:30:42.547 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 10
+20170405-13:30:44.548 : FIX.4.2:SABERIN->TW Socket Reader 60217144 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53918
+20170405-13:30:44.548 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:30:44.549 : Verify failed: MsgSeqNum too low, expecting 26 but received 11
+20170405-13:30:44.549 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 11
+20170405-13:30:46.550 : FIX.4.2:SABERIN->TW Socket Reader 32981581 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53919
+20170405-13:30:46.550 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:30:46.551 : Verify failed: MsgSeqNum too low, expecting 26 but received 12
+20170405-13:30:46.551 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 12
+20170405-13:30:48.555 : FIX.4.2:SABERIN->TW Socket Reader 23214600 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53920
+20170405-13:30:48.555 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:30:48.556 : Verify failed: MsgSeqNum too low, expecting 26 but received 13
+20170405-13:30:48.556 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 13
+20170405-13:30:50.557 : FIX.4.2:SABERIN->TW Socket Reader 13444298 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53921
+20170405-13:30:50.557 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:30:50.558 : Verify failed: MsgSeqNum too low, expecting 26 but received 14
+20170405-13:30:50.558 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 14
+20170405-13:30:57.482 : Created session
+20170405-13:31:00.873 : FIX.4.2:SABERIN->TW Socket Reader 38583594 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54011
+20170405-13:31:00.873 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:31:00.937 : Verify failed: MsgSeqNum too low, expecting 26 but received 15
+20170405-13:31:00.938 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 15
+20170405-13:31:02.657 : FIX.4.2:SABERIN->TW Socket Reader 49538252 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54013
+20170405-13:31:02.657 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:31:02.659 : Verify failed: MsgSeqNum too low, expecting 26 but received 16
+20170405-13:31:02.659 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 16
+20170405-13:31:04.658 : FIX.4.2:SABERIN->TW Socket Reader 21647132 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54014
+20170405-13:31:04.658 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:31:04.659 : Verify failed: MsgSeqNum too low, expecting 26 but received 17
+20170405-13:31:04.659 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 17
+20170405-13:31:15.314 : Created session
+20170405-13:31:47.794 : Created session
+20170405-13:31:51.779 : FIX.4.2:SABERIN->TW Socket Reader 15997706 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54188
+20170405-13:31:51.779 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:31:51.839 : Verify failed: MsgSeqNum too low, expecting 26 but received 18
+20170405-13:31:51.840 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 18
+20170405-13:31:53.645 : FIX.4.2:SABERIN->TW Socket Reader 34250480 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54189
+20170405-13:31:53.645 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:31:53.647 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:31:53.647 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:31:55.643 : FIX.4.2:SABERIN->TW Socket Reader 58408916 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54190
+20170405-13:31:55.643 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:31:55.644 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:31:55.644 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:31:57.646 : FIX.4.2:SABERIN->TW Socket Reader 2348279 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54191
+20170405-13:31:57.646 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:31:57.648 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:31:57.648 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:31:59.646 : FIX.4.2:SABERIN->TW Socket Reader 61669314 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54192
+20170405-13:31:59.647 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:31:59.647 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:31:59.647 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:01.648 : FIX.4.2:SABERIN->TW Socket Reader 36865354 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54193
+20170405-13:32:01.648 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:32:01.650 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:01.650 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:03.655 : FIX.4.2:SABERIN->TW Socket Reader 3196068 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54194
+20170405-13:32:03.655 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:32:03.656 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:03.656 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:05.652 : FIX.4.2:SABERIN->TW Socket Reader 4186222 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54195
+20170405-13:32:05.652 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:32:05.654 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:05.654 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:07.654 : FIX.4.2:SABERIN->TW Socket Reader 764807 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54196
+20170405-13:32:07.654 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:32:07.654 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:07.654 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:09.669 : FIX.4.2:SABERIN->TW Socket Reader 10479095 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54197
+20170405-13:32:09.669 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:32:09.671 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:09.671 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:11.660 : FIX.4.2:SABERIN->TW Socket Reader 4684807 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54199
+20170405-13:32:11.660 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:32:11.660 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:11.660 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:13.678 : FIX.4.2:SABERIN->TW Socket Reader 41662089 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54200
+20170405-13:32:13.678 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:32:13.679 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:13.680 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:15.662 : FIX.4.2:SABERIN->TW Socket Reader 46338128 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54201
+20170405-13:32:15.663 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:32:15.664 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:15.664 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:17.670 : FIX.4.2:SABERIN->TW Socket Reader 28975576 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54202
+20170405-13:32:17.670 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:32:17.671 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:17.671 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:19.669 : FIX.4.2:SABERIN->TW Socket Reader 11942173 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54203
+20170405-13:32:19.670 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:32:19.670 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:19.670 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:21.670 : FIX.4.2:SABERIN->TW Socket Reader 40054951 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54204
+20170405-13:32:21.670 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:32:21.671 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:21.671 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:23.673 : FIX.4.2:SABERIN->TW Socket Reader 9985467 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54205
+20170405-13:32:23.673 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:32:23.674 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:23.674 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:25.679 : FIX.4.2:SABERIN->TW Socket Reader 19425995 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54206
+20170405-13:32:25.679 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:32:25.680 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:25.680 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:27.678 : FIX.4.2:SABERIN->TW Socket Reader 34478086 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54207
+20170405-13:32:27.678 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:32:27.679 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:27.679 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:29.688 : FIX.4.2:SABERIN->TW Socket Reader 42506536 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54208
+20170405-13:32:29.688 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:32:29.689 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:29.689 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:34.376 : FIX.4.2:SABERIN->TW Socket Reader 26676330 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54211
+20170405-13:32:34.377 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:32:34.378 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:34.378 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:36.267 : FIX.4.2:SABERIN->TW Socket Reader 13812657 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54212
+20170405-13:32:36.267 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:32:36.268 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:36.268 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:38.270 : FIX.4.2:SABERIN->TW Socket Reader 61488610 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54213
+20170405-13:32:38.270 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:32:38.271 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:38.271 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:40.273 : FIX.4.2:SABERIN->TW Socket Reader 31009643 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54214
+20170405-13:32:40.273 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:32:40.274 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:40.274 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:42.276 : FIX.4.2:SABERIN->TW Socket Reader 42212859 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54216
+20170405-13:32:42.276 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:32:42.277 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:42.277 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:44.278 : FIX.4.2:SABERIN->TW Socket Reader 36831338 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54217
+20170405-13:32:44.278 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:32:44.279 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:44.279 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:46.278 : FIX.4.2:SABERIN->TW Socket Reader 31365329 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54218
+20170405-13:32:46.278 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:32:46.280 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:46.280 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:48.291 : FIX.4.2:SABERIN->TW Socket Reader 3183570 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54219
+20170405-13:32:48.291 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:32:48.293 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:48.293 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:50.289 : FIX.4.2:SABERIN->TW Socket Reader 48258320 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54220
+20170405-13:32:50.289 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:32:50.291 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:50.291 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:52.282 : FIX.4.2:SABERIN->TW Socket Reader 51299798 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54222
+20170405-13:32:52.282 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:32:52.283 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:52.283 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:54.299 : FIX.4.2:SABERIN->TW Socket Reader 59088883 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54224
+20170405-13:32:54.299 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:32:54.300 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:54.300 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:56.283 : FIX.4.2:SABERIN->TW Socket Reader 30109628 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54226
+20170405-13:32:56.283 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:32:56.288 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:56.288 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:58.294 : FIX.4.2:SABERIN->TW Socket Reader 39427399 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54231
+20170405-13:32:58.294 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:32:58.295 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:32:58.295 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:33:00.303 : FIX.4.2:SABERIN->TW Socket Reader 63932886 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54235
+20170405-13:33:00.303 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:33:00.304 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:33:00.304 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:33:02.299 : FIX.4.2:SABERIN->TW Socket Reader 5051240 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54242
+20170405-13:33:02.300 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:33:02.301 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:33:02.302 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:33:04.297 : FIX.4.2:SABERIN->TW Socket Reader 37277064 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54246
+20170405-13:33:04.297 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:33:04.298 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:33:04.298 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:33:06.297 : FIX.4.2:SABERIN->TW Socket Reader 2977126 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54249
+20170405-13:33:06.297 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:33:06.301 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:33:06.302 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:33:15.395 : FIX.4.2:SABERIN->TW Socket Reader 6773050 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54254
+20170405-13:33:15.395 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:33:15.396 : Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:33:15.396 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 1
+20170405-13:33:17.313 : FIX.4.2:SABERIN->TW Socket Reader 8819177 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54255
+20170405-13:33:17.313 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:33:17.313 : Verify failed: MsgSeqNum too low, expecting 26 but received 2
+20170405-13:33:17.313 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 2
+20170405-13:33:19.311 : FIX.4.2:SABERIN->TW Socket Reader 26906027 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54256
+20170405-13:33:19.311 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:33:19.314 : Verify failed: MsgSeqNum too low, expecting 26 but received 3
+20170405-13:33:19.314 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 3
+20170405-13:33:21.314 : FIX.4.2:SABERIN->TW Socket Reader 48454903 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54257
+20170405-13:33:21.314 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:33:21.316 : Verify failed: MsgSeqNum too low, expecting 26 but received 4
+20170405-13:33:21.317 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 4
+20170405-13:33:23.315 : FIX.4.2:SABERIN->TW Socket Reader 44416744 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54258
+20170405-13:33:23.315 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:33:23.316 : Verify failed: MsgSeqNum too low, expecting 26 but received 5
+20170405-13:33:23.316 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 5
+20170405-13:33:25.315 : FIX.4.2:SABERIN->TW Socket Reader 43232965 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54259
+20170405-13:33:25.315 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:33:25.316 : Verify failed: MsgSeqNum too low, expecting 26 but received 6
+20170405-13:33:25.316 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 6
+20170405-13:33:27.326 : FIX.4.2:SABERIN->TW Socket Reader 35925628 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54268
+20170405-13:33:27.326 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:33:27.327 : Verify failed: MsgSeqNum too low, expecting 26 but received 7
+20170405-13:33:27.327 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 7
+20170405-13:33:29.335 : FIX.4.2:SABERIN->TW Socket Reader 35993863 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54273
+20170405-13:33:29.335 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:33:29.337 : Verify failed: MsgSeqNum too low, expecting 26 but received 8
+20170405-13:33:29.337 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 8
+20170405-13:33:31.326 : FIX.4.2:SABERIN->TW Socket Reader 40992964 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54274
+20170405-13:33:31.326 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:33:31.327 : Verify failed: MsgSeqNum too low, expecting 26 but received 9
+20170405-13:33:31.327 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 9
+20170405-13:33:33.337 : FIX.4.2:SABERIN->TW Socket Reader 3485376 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54276
+20170405-13:33:33.337 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:33:33.338 : Verify failed: MsgSeqNum too low, expecting 26 but received 10
+20170405-13:33:33.338 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 10
+20170405-13:33:35.331 : FIX.4.2:SABERIN->TW Socket Reader 23556332 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54278
+20170405-13:33:35.331 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:33:35.332 : Verify failed: MsgSeqNum too low, expecting 26 but received 11
+20170405-13:33:35.332 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 11
+20170405-13:33:37.335 : FIX.4.2:SABERIN->TW Socket Reader 554566 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54279
+20170405-13:33:37.335 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:33:37.336 : Verify failed: MsgSeqNum too low, expecting 26 but received 12
+20170405-13:33:37.336 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 12
+20170405-13:33:39.340 : FIX.4.2:SABERIN->TW Socket Reader 3125488 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54281
+20170405-13:33:39.340 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:33:39.340 : Verify failed: MsgSeqNum too low, expecting 26 but received 13
+20170405-13:33:39.340 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 13
+20170405-13:33:41.341 : FIX.4.2:SABERIN->TW Socket Reader 63571771 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54283
+20170405-13:33:41.341 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:33:41.342 : Verify failed: MsgSeqNum too low, expecting 26 but received 14
+20170405-13:33:41.342 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 14
+20170405-13:33:43.352 : FIX.4.2:SABERIN->TW Socket Reader 38221211 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54284
+20170405-13:33:43.352 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:33:43.353 : Verify failed: MsgSeqNum too low, expecting 26 but received 15
+20170405-13:33:43.353 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 15
+20170405-13:33:45.355 : FIX.4.2:SABERIN->TW Socket Reader 27453125 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:52434
+20170405-13:33:45.355 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:33:45.357 : Verify failed: MsgSeqNum too low, expecting 26 but received 16
+20170405-13:33:45.357 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 16
+20170405-13:33:47.356 : FIX.4.2:SABERIN->TW Socket Reader 19386630 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:52439
+20170405-13:33:47.356 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:33:47.357 : Verify failed: MsgSeqNum too low, expecting 26 but received 17
+20170405-13:33:47.357 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 17
+20170405-13:33:49.350 : FIX.4.2:SABERIN->TW Socket Reader 1105210 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:52440
+20170405-13:33:49.350 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:33:49.350 : Verify failed: MsgSeqNum too low, expecting 26 but received 18
+20170405-13:33:49.350 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 18
+20170405-13:33:51.350 : FIX.4.2:SABERIN->TW Socket Reader 40613981 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:52441
+20170405-13:33:51.350 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:33:51.351 : Verify failed: MsgSeqNum too low, expecting 26 but received 19
+20170405-13:33:51.351 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 19
+20170405-13:33:53.353 : FIX.4.2:SABERIN->TW Socket Reader 45048365 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:52442
+20170405-13:33:53.353 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:33:53.354 : Verify failed: MsgSeqNum too low, expecting 26 but received 20
+20170405-13:33:53.354 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 20
+20170405-13:33:55.361 : FIX.4.2:SABERIN->TW Socket Reader 27074695 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:52443
+20170405-13:33:55.361 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:33:55.362 : Verify failed: MsgSeqNum too low, expecting 26 but received 21
+20170405-13:33:55.362 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 21
+20170405-13:33:57.366 : FIX.4.2:SABERIN->TW Socket Reader 1056867 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:52444
+20170405-13:33:57.366 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:33:57.367 : Verify failed: MsgSeqNum too low, expecting 26 but received 22
+20170405-13:33:57.367 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 22
+20170405-13:33:59.361 : FIX.4.2:SABERIN->TW Socket Reader 1320824 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:52445
+20170405-13:33:59.361 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:33:59.362 : Verify failed: MsgSeqNum too low, expecting 26 but received 23
+20170405-13:33:59.362 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 23
+20170405-13:34:01.364 : FIX.4.2:SABERIN->TW Socket Reader 66873496 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:52447
+20170405-13:34:01.364 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:34:01.365 : Verify failed: MsgSeqNum too low, expecting 26 but received 24
+20170405-13:34:01.365 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 24
+20170405-13:34:03.366 : FIX.4.2:SABERIN->TW Socket Reader 16859572 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:52448
+20170405-13:34:03.366 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:34:03.367 : Verify failed: MsgSeqNum too low, expecting 26 but received 25
+20170405-13:34:03.367 : Session FIX.4.2:SABERIN->TW disconnecting: Verify failed: MsgSeqNum too low, expecting 26 but received 25
+20170405-13:34:05.367 : FIX.4.2:SABERIN->TW Socket Reader 50177944 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:52449
+20170405-13:34:05.367 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:34:05.370 : Received logon
+20170405-13:34:05.373 : Responding to logon request
+20170405-13:34:05.398 : Got resend request from 1 to 0
+20170405-13:34:05.407 : Sent SequenceReset TO: 188
+20170405-13:36:47.091 : Sent test request TEST
+20170405-13:37:25.101 : Message 35 Rejected: Tag specified without a value (Field=11)
+20170405-13:37:40.924 : Session FIX.4.2:SABERIN->TW disconnecting: Socket exception (127.0.0.1:52449): An existing connection was forcibly closed by the remote host
+20170405-13:37:47.586 : Created session
+20170405-13:37:56.993 : FIX.4.2:SABERIN->TW Socket Reader 1997173 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:52588
+20170405-13:37:56.993 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:37:57.052 : Received logon
+20170405-13:37:57.068 : Responding to logon request
+20170405-13:40:22.897 : Message 42 Rejected: Tag specified without a value (Field=11)
+20170405-13:40:34.899 : Sent test request TEST
+20170405-13:40:50.037 : Session FIX.4.2:SABERIN->TW disconnecting: Socket exception (127.0.0.1:52588): An existing connection was forcibly closed by the remote host
+20170405-13:56:35.825 : Created session
+20170405-13:59:26.420 : Created session
+20170405-13:59:38.580 : FIX.4.2:SABERIN->TW Socket Reader 61325552 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53106
+20170405-13:59:38.581 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-13:59:38.640 : Received logon
+20170405-13:59:38.662 : Responding to logon request
+20170405-14:00:09.691 : Rejecting invalid message, field not found: field not found for tag: 44
+20170405-14:00:09.695 : Reject sent for Message: 45 Reason:Conditionally Required Field Missing
+20170405-14:06:12.378 : Created session
+20170405-14:06:12.586 : FIX.4.2:SABERIN->TW Socket Reader 38583594 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53282
+20170405-14:06:12.586 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-14:06:12.627 : Received logon
+20170405-14:06:12.649 : Responding to logon request
+20170405-14:06:12.650 : MsgSeqNum too high, expecting 47 but received 71
+20170405-14:06:12.652 : Sent ResendRequest FROM: 47 TO: 0
+20170405-14:06:12.707 : ResendRequest for messages FROM: 47 TO: 0 has been satisfied.
+20170405-14:06:12.708 : Received SequenceReset FROM: 47 TO: 72
+20170405-14:10:32.597 : Created session
+20170405-14:10:32.889 : FIX.4.2:SABERIN->TW Socket Reader 30762424 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:53542
+20170405-14:10:32.889 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-14:10:32.952 : Received logon
+20170405-14:10:32.995 : Responding to logon request
+20170405-14:21:16.466 : Created session
+20170405-14:33:54.658 : FIX.4.2:SABERIN->TW Socket Reader 30762424 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:54039
+20170405-14:33:54.658 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-14:33:54.699 : Received logon
+20170405-14:33:54.722 : Responding to logon request
+20170405-16:01:10.237 : Created session
+20170405-16:01:10.362 : FIX.4.2:SABERIN->TW Socket Reader 6614365 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:58354
+20170405-16:01:10.362 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-16:01:10.404 : Received logon
+20170405-16:01:10.426 : Responding to logon request
+20170405-16:13:13.610 : Created session
+20170405-16:13:14.011 : FIX.4.2:SABERIN->TW Socket Reader 6614365 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:58979
+20170405-16:13:14.011 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-16:13:14.048 : Received logon
+20170405-16:13:14.069 : Responding to logon request
+20170405-16:14:07.709 : Created session
+20170405-16:14:08.118 : FIX.4.2:SABERIN->TW Socket Reader 30762424 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:59105
+20170405-16:14:08.119 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-16:14:08.159 : Received logon
+20170405-16:14:08.180 : Responding to logon request
+20170405-16:17:31.854 : Session FIX.4.2:SABERIN->TW disconnecting: Timed out waiting for heartbeat
+20170405-16:17:32.042 : FIX.4.2:SABERIN->TW Socket Reader 43257534 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:59180
+20170405-16:17:32.042 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 30 seconds
+20170405-16:17:32.625 : Sending time accuracy problem
+20170405-16:17:32.625 : Multiple logons/connections for this session are not allowed (127.0.0.1:59186)
+20170405-16:17:34.114 : Multiple logons/connections for this session are not allowed (127.0.0.1:59188)
+20170405-16:17:34.808 : Multiple logons/connections for this session are not allowed (127.0.0.1:59192)
+20170405-16:17:38.537 : Created session
+20170405-16:17:39.029 : FIX.4.2:SABERIN->TW Socket Reader 1997173 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:59245
+20170405-16:17:39.030 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-16:18:15.561 : Created session
+20170405-16:18:15.715 : FIX.4.2:SABERIN->TW Socket Reader 30762424 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:59316
+20170405-16:18:15.715 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-16:18:21.069 : Received logon
+20170405-16:19:47.556 : Responding to logon request
+20170405-16:19:47.557 : MsgSeqNum too high, expecting 99 but received 115
+20170405-16:19:50.003 : Multiple logons/connections for this session are not allowed (127.0.0.1:59349)
+20170405-16:19:50.018 : Multiple logons/connections for this session are not allowed (127.0.0.1:59346)
+20170405-16:19:50.057 : Multiple logons/connections for this session are not allowed (127.0.0.1:59353)
+20170405-16:19:50.058 : Session FIX.4.2:SABERIN->TW disconnecting: Socket exception (127.0.0.1:59316): An established connection was aborted by the software in your host machine
+20170405-16:19:50.061 : FIX.4.2:SABERIN->TW Socket Reader 47540323 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:59361
+20170405-16:19:50.061 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 30 seconds
+20170405-16:19:50.061 : Received logon
+20170405-16:19:50.061 : Responding to logon request
+20170405-16:19:50.061 : MsgSeqNum too high, expecting 99 but received 119
+20170405-16:24:53.646 : Created session
+20170405-16:24:54.000 : FIX.4.2:SABERIN->TW Socket Reader 30762424 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:59648
+20170405-16:24:54.001 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-16:24:54.051 : Received logon
+20170405-16:24:54.074 : Responding to logon request
+20170405-16:24:54.075 : MsgSeqNum too high, expecting 99 but received 124
+20170405-16:24:54.079 : Sent ResendRequest FROM: 99 TO: 0
+20170405-16:24:54.231 : Got resend request from 233 to 0
+20170405-16:24:54.239 : Sent SequenceReset TO: 239
+20170405-16:24:54.274 : ResendRequest for messages FROM: 99 TO: 0 has been satisfied.
+20170405-16:24:54.275 : Received SequenceReset FROM: 99 TO: 126
+20170405-16:27:24.080 : Created session
+20170405-16:27:24.742 : FIX.4.2:SABERIN->TW Socket Reader 8667637 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:59830
+20170405-16:27:24.743 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-16:27:24.780 : Received logon
+20170405-16:27:24.801 : Responding to logon request
+20170405-19:04:34.030 : Created session
+20170405-19:06:13.443 : Created session
+20170405-19:07:15.009 : Created session
+20170405-19:12:50.989 : Created session
+20170405-19:12:51.743 : FIX.4.2:SABERIN->TW Socket Reader 1997173 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:49193
+20170405-19:12:51.743 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-19:12:51.900 : Received logon
+20170405-19:12:51.922 : Responding to logon request
+20170405-19:16:49.730 : Created session
+20170405-19:16:50.562 : FIX.4.2:SABERIN->TW Socket Reader 61325552 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:49368
+20170405-19:16:50.562 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-19:16:50.598 : Received logon
+20170405-19:16:50.620 : Responding to logon request
+20170405-19:24:29.478 : Created session
+20170405-19:24:36.431 : FIX.4.2:SABERIN->TW Socket Reader 6614365 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:49569
+20170405-19:24:36.431 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-19:24:36.476 : Received logon
+20170405-19:24:36.502 : Responding to logon request
+20170405-19:25:02.228 : Session FIX.4.2:SABERIN->TW disconnecting: Socket exception (127.0.0.1:49569): An existing connection was forcibly closed by the remote host
+20170405-19:30:43.357 : Created session
+20170405-19:30:46.704 : FIX.4.2:SABERIN->TW Socket Reader 61325552 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:49736
+20170405-19:30:46.704 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-19:30:46.747 : Received logon
+20170405-19:30:46.788 : Responding to logon request
+20170405-19:31:10.100 : Session FIX.4.2:SABERIN->TW disconnecting: Socket exception (127.0.0.1:49736): An existing connection was forcibly closed by the remote host
+20170405-20:16:03.359 : Created session
+20170405-20:16:18.064 : FIX.4.2:SABERIN->TW Socket Reader 59321765 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:51005
+20170405-20:16:18.064 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-20:16:18.167 : Session reset: ResetOnLogon
+20170405-20:16:18.172 : Received logon
+20170405-20:16:18.221 : Responding to logon request
+20170405-20:16:20.711 : Session FIX.4.2:SABERIN->TW disconnecting: Socket exception (127.0.0.1:51005): An existing connection was forcibly closed by the remote host
+20170405-20:16:20.743 : Session reset: ResetOnDisconnect
+20170405-20:17:12.610 : Created session

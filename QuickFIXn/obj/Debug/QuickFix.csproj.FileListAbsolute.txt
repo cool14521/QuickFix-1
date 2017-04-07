@@ -1,0 +1,4 @@
+D:\GIT\training\quickfixn\QuickFIXn\bin\Debug\QuickFix.dll
+D:\GIT\training\quickfixn\QuickFIXn\bin\Debug\QuickFix.pdb
+D:\GIT\training\quickfixn\QuickFIXn\obj\Debug\QuickFix.dll
+D:\GIT\training\quickfixn\QuickFIXn\obj\Debug\QuickFix.pdb

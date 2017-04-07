@@ -1,0 +1,43 @@
+20170405-13:27:20.587 : connected
+20170405-13:27:20.618 : shutdown requested: Disconnected
+20170405-13:27:20.619 : shutdown
+20170405-13:28:34.833 : connected
+20170405-13:28:34.871 : shutdown requested: Disconnected
+20170405-13:28:34.871 : shutdown
+20170405-13:30:34.533 : connected
+20170405-13:30:34.538 : shutdown requested: Disconnected
+20170405-13:30:34.538 : shutdown
+20170405-13:32:15.647 : connected
+20170405-13:32:15.664 : shutdown requested: Disconnected
+20170405-13:32:15.664 : shutdown
+20170406-17:04:12.079 : connected
+20170406-17:04:12.083 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.29=6535=A34=1349=TW52=20170406-17:04:12.07856=SABERIN98=0108=3010=227
+20170406-17:04:12.097 : SocketReader Error: System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds) in D:\GIT\training\quickfixn\QuickFIXn\SocketReader.cs:line 82
+   at QuickFix.SocketReader.Read() in D:\GIT\training\quickfixn\QuickFIXn\SocketReader.cs:line 44
+20170406-17:04:12.106 : shutdown requested: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+20170406-17:04:12.106 : shutdown
+20170406-17:55:13.312 : connected
+20170406-17:56:16.571 : Error on Session 'FIX.4.2:ACCEPTOR->SABERIN': System.IO.IOException: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   at QuickFix.SocketReader.Send(String data) in D:\GIT\training\quickfixn\QuickFIXn\SocketReader.cs:line 308
+   at QuickFix.ClientHandlerThread.Send(String data) in D:\GIT\training\quickfixn\QuickFIXn\ClientHandlerThread.cs:line 134
+   at QuickFix.Session.Send(String message) in D:\GIT\training\quickfixn\QuickFIXn\Session.cs:line 352
+   at QuickFix.Session.SendRaw(Message message, Int32 seqNum) in D:\GIT\training\quickfixn\QuickFIXn\Session.cs:line 1641
+   at QuickFix.Session.GenerateLogout(Message other, String text) in D:\GIT\training\quickfixn\QuickFIXn\Session.cs:line 1324
+   at QuickFix.Session.GenerateLogout(Message other) in D:\GIT\training\quickfixn\QuickFIXn\Session.cs:line 1298
+   at QuickFix.Session.NextLogout(Message logout) in D:\GIT\training\quickfixn\QuickFIXn\Session.cs:line 861
+   at QuickFix.Session.Next(MessageBuilder msgBuilder) in D:\GIT\training\quickfixn\QuickFIXn\Session.cs:line 598
+   at QuickFix.Session.NextMessage(String msgStr) in D:\GIT\training\quickfixn\QuickFIXn\Session.cs:line 530
+   at QuickFix.Session.Next(String msgStr) in D:\GIT\training\quickfixn\QuickFIXn\Session.cs:line 511
+   at QuickFix.SocketReader.OnMessageFoundInternal(String msg) in D:\GIT\training\quickfixn\QuickFIXn\SocketReader.cs:line 150
+20170406-17:56:16.607 : SocketReader Error: Socket exception (127.0.0.1:60131): An existing connection was forcibly closed by the remote host
+20170406-17:56:16.607 : shutdown requested: Disconnected
+20170406-17:56:16.617 : shutdown requested: An existing connection was forcibly closed by the remote host
+20170406-17:56:16.617 : shutdown

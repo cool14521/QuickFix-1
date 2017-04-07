@@ -1,0 +1,81 @@
+20170405-13:27:02.566 : connected
+20170405-13:27:02.599 : shutdown requested: Disconnected
+20170405-13:27:02.599 : shutdown
+20170405-13:28:16.817 : connected
+20170405-13:28:16.856 : shutdown requested: Disconnected
+20170405-13:28:16.856 : shutdown
+20170405-13:30:05.237 : connected
+20170405-13:30:05.270 : shutdown requested: Disconnected
+20170405-13:30:05.270 : shutdown
+20170405-13:31:57.629 : connected
+20170405-13:31:57.648 : shutdown requested: Disconnected
+20170405-13:31:57.648 : shutdown
+20170405-16:17:32.635 : connected
+20170405-16:17:34.117 : SocketReader Error: System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketReader.Read()
+20170405-16:17:34.150 : shutdown requested: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+20170405-16:17:34.150 : shutdown
+20170405-16:19:48.238 : connected
+20170406-15:02:51.686 : connected
+20170406-15:02:51.799 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.29=7735=A34=149=SABERIN52=20170406-15:02:51.75356=INITIATOR98=0108=30141=Y10=231
+20170406-15:02:51.815 : SocketReader Error: System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds) in D:\GIT\training\quickfixn\QuickFIXn\SocketReader.cs:line 82
+   at QuickFix.SocketReader.Read() in D:\GIT\training\quickfixn\QuickFIXn\SocketReader.cs:line 44
+20170406-15:02:51.823 : shutdown requested: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+20170406-15:02:51.823 : shutdown
+20170406-16:48:09.911 : connected
+20170406-16:48:12.117 : SocketReader Error: Socket (127.0.0.1:53209): An existing connection was forcibly closed by the remote host
+20170406-16:48:12.129 : shutdown requested: An existing connection was forcibly closed by the remote host
+20170406-16:48:12.129 : shutdown
+20170406-17:02:35.406 : connected
+20170406-17:02:35.440 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.29=7035=A34=149=TW52=20170406-17:02:35.42356=SABERIN98=0108=30141=Y10=214
+20170406-17:02:35.476 : SocketReader Error: System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds) in D:\GIT\training\quickfixn\QuickFIXn\SocketReader.cs:line 82
+   at QuickFix.SocketReader.Read() in D:\GIT\training\quickfixn\QuickFIXn\SocketReader.cs:line 44
+20170406-17:02:35.509 : shutdown requested: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+20170406-17:02:35.509 : shutdown
+20170406-17:03:54.058 : connected
+20170406-17:03:54.062 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.29=6435=A34=449=TW52=20170406-17:03:54.05456=SABERIN98=0108=3010=177
+20170406-17:03:54.073 : SocketReader Error: System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds) in D:\GIT\training\quickfixn\QuickFIXn\SocketReader.cs:line 82
+   at QuickFix.SocketReader.Read() in D:\GIT\training\quickfixn\QuickFIXn\SocketReader.cs:line 44
+20170406-17:03:54.082 : shutdown requested: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+20170406-17:03:54.082 : shutdown
+20170406-17:15:25.343 : connected
+20170406-17:27:22.707 : SocketReader Error: Socket exception (127.0.0.1:54445): An existing connection was forcibly closed by the remote host
+20170406-17:27:22.707 : shutdown requested: Disconnected
+20170406-17:27:22.721 : shutdown requested: An existing connection was forcibly closed by the remote host
+20170406-17:27:22.721 : shutdown
+20170406-17:54:01.426 : connected
+20170406-17:54:01.454 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.29=7635=A34=149=CLIENT152=20170406-17:54:01.44356=EXECUTOR98=0108=30141=Y10=142
+20170406-17:54:01.479 : SocketReader Error: System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   at QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds) in D:\GIT\training\quickfixn\QuickFIXn\SocketReader.cs:line 82
+   at QuickFix.SocketReader.Read() in D:\GIT\training\quickfixn\QuickFIXn\SocketReader.cs:line 44
+20170406-17:54:01.494 : shutdown requested: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+20170406-17:54:01.494 : shutdown
+20170406-18:44:55.587 : connected
+20170406-18:45:10.337 : SocketReader Error: Socket exception (127.0.0.1:52028): An existing connection was forcibly closed by the remote host
+20170406-18:45:10.337 : shutdown requested: Disconnected
+20170406-18:45:10.382 : shutdown requested: An existing connection was forcibly closed by the remote host
+20170406-18:45:10.382 : shutdown
+20170406-20:22:12.331 : connected
+20170406-20:23:06.076 : SocketReader Error: Socket exception (127.0.0.1:63991): An existing connection was forcibly closed by the remote host
+20170406-20:23:06.076 : shutdown requested: Disconnected
+20170406-20:23:06.123 : shutdown requested: An existing connection was forcibly closed by the remote host
+20170406-20:23:06.123 : shutdown

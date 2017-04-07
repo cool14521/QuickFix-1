@@ -1,0 +1,160 @@
+20170405-19:59:01.808 : Created session
+20170405-19:59:49.303 : FIX.4.2:SABERIN->TW Socket Reader 59321765 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:50532
+20170405-19:59:49.303 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-19:59:49.421 : Received logon
+20170405-19:59:49.447 : Responding to logon request
+20170405-19:59:49.448 : MsgSeqNum too high, expecting 1 but received 138
+20170405-19:59:49.450 : Sent ResendRequest FROM: 1 TO: 0
+20170405-19:59:49.535 : Received logout request
+20170405-19:59:49.537 : Sending logout response
+20170405-19:59:49.538 : Session FIX.4.2:SABERIN->TW disconnecting: Received logout request
+20170405-19:59:51.181 : FIX.4.2:SABERIN->TW Socket Reader 43257534 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:50561
+20170405-19:59:51.181 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 30 seconds
+20170405-19:59:51.181 : Received logon
+20170405-19:59:51.182 : Responding to logon request
+20170405-19:59:51.182 : MsgSeqNum too high, expecting 2 but received 140
+20170405-19:59:51.182 : Sent ResendRequest FROM: 2 TO: 0
+20170405-19:59:51.228 : Received logout request
+20170405-19:59:51.228 : Sending logout response
+20170405-19:59:51.228 : Session FIX.4.2:SABERIN->TW disconnecting: Received logout request
+20170405-19:59:53.150 : FIX.4.2:SABERIN->TW Socket Reader 37088038 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:50562
+20170405-19:59:53.150 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 30 seconds
+20170405-19:59:53.150 : Received logon
+20170405-19:59:53.151 : Responding to logon request
+20170405-19:59:53.151 : MsgSeqNum too high, expecting 3 but received 142
+20170405-19:59:53.151 : Sent ResendRequest FROM: 3 TO: 0
+20170405-19:59:53.157 : Received logout request
+20170405-19:59:53.168 : Sending logout response
+20170405-19:59:53.168 : Session FIX.4.2:SABERIN->TW disconnecting: Received logout request
+20170405-19:59:55.138 : FIX.4.2:SABERIN->TW Socket Reader 33768781 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:50563
+20170405-19:59:55.138 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 30 seconds
+20170405-19:59:55.139 : Received logon
+20170405-19:59:55.139 : Responding to logon request
+20170405-19:59:55.139 : MsgSeqNum too high, expecting 4 but received 144
+20170405-19:59:55.140 : Sent ResendRequest FROM: 4 TO: 0
+20170405-19:59:55.142 : Received logout request
+20170405-19:59:55.142 : Sending logout response
+20170405-19:59:55.142 : Session FIX.4.2:SABERIN->TW disconnecting: Received logout request
+20170405-19:59:57.136 : FIX.4.2:SABERIN->TW Socket Reader 49341803 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:50564
+20170405-19:59:57.136 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 30 seconds
+20170405-19:59:57.137 : Received logon
+20170405-19:59:57.137 : Responding to logon request
+20170405-19:59:57.137 : MsgSeqNum too high, expecting 5 but received 146
+20170405-19:59:57.137 : Sent ResendRequest FROM: 5 TO: 0
+20170405-19:59:57.141 : Received logout request
+20170405-19:59:57.142 : Sending logout response
+20170405-19:59:57.142 : Session FIX.4.2:SABERIN->TW disconnecting: Received logout request
+20170405-19:59:59.136 : FIX.4.2:SABERIN->TW Socket Reader 47540323 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:50566
+20170405-19:59:59.136 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 30 seconds
+20170405-19:59:59.136 : Received logon
+20170405-19:59:59.137 : Responding to logon request
+20170405-19:59:59.137 : MsgSeqNum too high, expecting 6 but received 148
+20170405-19:59:59.137 : Sent ResendRequest FROM: 6 TO: 0
+20170405-19:59:59.139 : Received logout request
+20170405-19:59:59.139 : Sending logout response
+20170405-19:59:59.139 : Session FIX.4.2:SABERIN->TW disconnecting: Received logout request
+20170405-20:00:01.148 : FIX.4.2:SABERIN->TW Socket Reader 43694208 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:50567
+20170405-20:00:01.148 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 30 seconds
+20170405-20:00:01.148 : Received logon
+20170405-20:00:01.149 : Responding to logon request
+20170405-20:00:01.149 : MsgSeqNum too high, expecting 7 but received 150
+20170405-20:00:01.150 : Sent ResendRequest FROM: 7 TO: 0
+20170405-20:00:01.153 : Received logout request
+20170405-20:00:01.154 : Sending logout response
+20170405-20:00:01.154 : Session FIX.4.2:SABERIN->TW disconnecting: Received logout request
+20170405-20:00:03.144 : FIX.4.2:SABERIN->TW Socket Reader 56772630 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:50568
+20170405-20:00:03.145 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 30 seconds
+20170405-20:00:03.145 : Received logon
+20170405-20:00:03.145 : Responding to logon request
+20170405-20:00:03.145 : MsgSeqNum too high, expecting 8 but received 152
+20170405-20:00:03.146 : Sent ResendRequest FROM: 8 TO: 0
+20170405-20:00:03.150 : Received logout request
+20170405-20:00:03.150 : Sending logout response
+20170405-20:00:03.150 : Session FIX.4.2:SABERIN->TW disconnecting: Received logout request
+20170405-20:00:05.142 : FIX.4.2:SABERIN->TW Socket Reader 18701856 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:50572
+20170405-20:00:05.142 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 30 seconds
+20170405-20:00:05.142 : Received logon
+20170405-20:00:05.143 : Responding to logon request
+20170405-20:00:05.143 : MsgSeqNum too high, expecting 9 but received 154
+20170405-20:00:05.143 : Sent ResendRequest FROM: 9 TO: 0
+20170405-20:00:05.147 : Received logout request
+20170405-20:00:05.147 : Sending logout response
+20170405-20:00:05.147 : Session FIX.4.2:SABERIN->TW disconnecting: Received logout request
+20170405-20:00:07.163 : FIX.4.2:SABERIN->TW Socket Reader 24319432 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:50573
+20170405-20:00:07.163 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 30 seconds
+20170405-20:00:07.163 : Received logon
+20170405-20:00:07.164 : Responding to logon request
+20170405-20:00:07.164 : MsgSeqNum too high, expecting 10 but received 156
+20170405-20:00:07.164 : Sent ResendRequest FROM: 10 TO: 0
+20170405-20:00:07.171 : Received logout request
+20170405-20:00:07.171 : Sending logout response
+20170405-20:00:07.172 : Session FIX.4.2:SABERIN->TW disconnecting: Received logout request
+20170405-20:00:09.148 : FIX.4.2:SABERIN->TW Socket Reader 12233283 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:50574
+20170405-20:00:09.148 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 30 seconds
+20170405-20:00:09.148 : Received logon
+20170405-20:00:09.148 : Responding to logon request
+20170405-20:00:09.148 : MsgSeqNum too high, expecting 11 but received 158
+20170405-20:00:09.149 : Sent ResendRequest FROM: 11 TO: 0
+20170405-20:00:09.153 : Received logout request
+20170405-20:00:09.153 : Sending logout response
+20170405-20:00:09.153 : Session FIX.4.2:SABERIN->TW disconnecting: Received logout request
+20170405-20:00:11.155 : FIX.4.2:SABERIN->TW Socket Reader 64277042 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:50575
+20170405-20:00:11.155 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 30 seconds
+20170405-20:00:11.155 : Received logon
+20170405-20:00:11.156 : Responding to logon request
+20170405-20:00:11.156 : MsgSeqNum too high, expecting 12 but received 160
+20170405-20:00:11.156 : Sent ResendRequest FROM: 12 TO: 0
+20170405-20:00:11.159 : Received logout request
+20170405-20:00:11.159 : Sending logout response
+20170405-20:00:11.159 : Session FIX.4.2:SABERIN->TW disconnecting: Received logout request
+20170405-20:00:13.158 : FIX.4.2:SABERIN->TW Socket Reader 48866680 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:50576
+20170405-20:00:13.158 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 30 seconds
+20170405-20:00:13.158 : Received logon
+20170405-20:00:13.159 : Responding to logon request
+20170405-20:00:13.159 : MsgSeqNum too high, expecting 13 but received 162
+20170405-20:00:13.159 : Sent ResendRequest FROM: 13 TO: 0
+20170405-20:00:13.162 : Received logout request
+20170405-20:00:13.162 : Sending logout response
+20170405-20:00:13.162 : Session FIX.4.2:SABERIN->TW disconnecting: Received logout request
+20170405-20:00:15.163 : FIX.4.2:SABERIN->TW Socket Reader 41249530 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:50577
+20170405-20:00:15.163 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 30 seconds
+20170405-20:00:15.163 : Received logon
+20170405-20:00:15.164 : Responding to logon request
+20170405-20:00:15.164 : MsgSeqNum too high, expecting 14 but received 164
+20170405-20:00:15.164 : Sent ResendRequest FROM: 14 TO: 0
+20170405-20:00:15.168 : Received logout request
+20170405-20:00:15.168 : Sending logout response
+20170405-20:00:15.168 : Session FIX.4.2:SABERIN->TW disconnecting: Received logout request
+20170405-20:00:17.165 : FIX.4.2:SABERIN->TW Socket Reader 38548890 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:50578
+20170405-20:00:17.165 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 30 seconds
+20170405-20:00:17.165 : Received logon
+20170405-20:00:17.165 : Responding to logon request
+20170405-20:00:17.165 : MsgSeqNum too high, expecting 15 but received 166
+20170405-20:00:17.166 : Sent ResendRequest FROM: 15 TO: 0
+20170405-20:00:17.168 : Received logout request
+20170405-20:00:17.169 : Sending logout response
+20170405-20:00:17.169 : Session FIX.4.2:SABERIN->TW disconnecting: Received logout request
+20170405-20:00:19.178 : FIX.4.2:SABERIN->TW Socket Reader 7581715 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:50580
+20170405-20:00:19.178 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 30 seconds
+20170405-20:00:19.179 : Received logon
+20170405-20:00:19.179 : Responding to logon request
+20170405-20:00:19.179 : MsgSeqNum too high, expecting 16 but received 168
+20170405-20:00:19.179 : Sent ResendRequest FROM: 16 TO: 0
+20170405-20:00:19.183 : Received logout request
+20170405-20:00:19.183 : Sending logout response
+20170405-20:00:19.183 : Session FIX.4.2:SABERIN->TW disconnecting: Received logout request
+20170405-20:00:21.171 : FIX.4.2:SABERIN->TW Socket Reader 29988571 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:50581
+20170405-20:00:21.171 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 30 seconds
+20170405-20:00:21.171 : Received logon
+20170405-20:00:21.172 : Responding to logon request
+20170405-20:00:21.172 : MsgSeqNum too high, expecting 17 but received 170
+20170405-20:00:21.172 : Sent ResendRequest FROM: 17 TO: 0
+20170405-20:00:21.175 : Received logout request
+20170405-20:00:21.176 : Sending logout response
+20170405-20:00:21.176 : Session FIX.4.2:SABERIN->TW disconnecting: Received logout request
+20170405-20:03:05.805 : Created session
+20170405-20:03:11.293 : FIX.4.2:SABERIN->TW Socket Reader 30762424 accepting session FIX.4.2:SABERIN->TW from 127.0.0.1:50731
+20170405-20:03:11.293 : FIX.4.2:SABERIN->TW Acceptor heartbeat set to 0 seconds
+20170405-20:03:11.384 : Session reset: ResetOnLogon
+20170405-20:03:11.391 : Received logon
+20170405-20:03:11.418 : Responding to logon request

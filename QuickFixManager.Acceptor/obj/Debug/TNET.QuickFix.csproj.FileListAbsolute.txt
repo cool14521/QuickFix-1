@@ -1,0 +1,11 @@
+D:\GIT\tpa\tpa-tnet\TNET.QuickFix\TNET.QuickFix\bin\Debug\TNET.QuickFix.exe.config
+D:\GIT\tpa\tpa-tnet\TNET.QuickFix\TNET.QuickFix\bin\Debug\TNET.QuickFix.exe
+D:\GIT\tpa\tpa-tnet\TNET.QuickFix\TNET.QuickFix\bin\Debug\TNET.QuickFix.pdb
+D:\GIT\tpa\tpa-tnet\TNET.QuickFix\TNET.QuickFix\bin\Debug\QuickFix.dll
+D:\GIT\tpa\tpa-tnet\TNET.QuickFix\TNET.QuickFix\obj\Debug\TNET.QuickFix.csprojResolveAssemblyReference.cache
+D:\GIT\tpa\tpa-tnet\TNET.QuickFix\TNET.QuickFix\obj\Debug\TNET.QuickFix.exe
+D:\GIT\tpa\tpa-tnet\TNET.QuickFix\TNET.QuickFix\obj\Debug\TNET.QuickFix.pdb
+D:\GIT\tpa\tpa-tnet\TNET.QuickFix\TNET.QuickFix\bin\Debug\EntityFramework.dll
+D:\GIT\tpa\tpa-tnet\TNET.QuickFix\TNET.QuickFix\bin\Debug\EntityFramework.SqlServer.dll
+D:\GIT\tpa\tpa-tnet\TNET.QuickFix\TNET.QuickFix\bin\Debug\EntityFramework.xml
+D:\GIT\tpa\tpa-tnet\TNET.QuickFix\TNET.QuickFix\bin\Debug\EntityFramework.SqlServer.xml

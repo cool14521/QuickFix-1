@@ -1,0 +1,383 @@
+20170406-14:56:43.860 : Created session
+20170406-15:05:58.656 : Created session
+20170406-16:44:38.477 : Created session
+20170406-16:46:22.877 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 56251872 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:53171
+20170406-16:46:22.877 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 0 seconds
+20170406-16:46:23.015 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-16:46:23.030 : Session reset: Reset requested by counterparty
+20170406-16:46:23.067 : Session reset: ResetOnLogon
+20170406-16:46:23.074 : Received logon
+20170406-16:46:23.091 : Responding to logon request
+20170406-16:46:23.874 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Socket exception (127.0.0.1:53171): An existing connection was forcibly closed by the remote host
+20170406-16:46:23.922 : Session reset: ResetOnDisconnect
+20170406-16:47:00.899 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 27778196 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:53181
+20170406-16:47:00.899 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 30 seconds
+20170406-16:47:00.899 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-16:47:00.919 : Session reset: Reset requested by counterparty
+20170406-16:47:00.933 : Session reset: ResetOnLogon
+20170406-16:47:00.933 : Received logon
+20170406-16:47:00.934 : Responding to logon request
+20170406-16:47:26.127 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Socket exception (127.0.0.1:53181): An existing connection was forcibly closed by the remote host
+20170406-16:47:26.165 : Session reset: ResetOnDisconnect
+20170406-16:47:33.254 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 28106152 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:53190
+20170406-16:47:33.254 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 30 seconds
+20170406-16:47:33.254 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-16:47:33.274 : Session reset: Reset requested by counterparty
+20170406-16:47:33.288 : Session reset: ResetOnLogon
+20170406-16:47:33.289 : Received logon
+20170406-16:47:33.289 : Responding to logon request
+20170406-16:47:33.334 : Received logout request
+20170406-16:47:33.335 : Sending logout response
+20170406-16:47:33.384 : Session reset: ResetOnLogout
+20170406-16:47:33.384 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Received logout request
+20170406-16:47:33.397 : Session reset: ResetOnDisconnect
+20170406-16:48:30.556 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 7185836 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:53216
+20170406-16:48:30.556 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 30 seconds
+20170406-16:48:30.586 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Received msg type 'D' when not logged on
+20170406-16:48:30.603 : Session reset: ResetOnDisconnect
+20170406-16:48:45.242 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 28000435 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:53219
+20170406-16:48:45.242 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 30 seconds
+20170406-16:48:45.242 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Received msg type 'D' when not logged on
+20170406-16:48:45.257 : Session reset: ResetOnDisconnect
+20170406-16:58:38.789 : Created session
+20170406-16:58:49.357 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 15645912 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:53461
+20170406-16:58:49.358 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 0 seconds
+20170406-16:58:49.398 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Received msg type 'D' when not logged on
+20170406-16:58:49.418 : Session reset: ResetOnDisconnect
+20170406-17:00:45.224 : Created session
+20170406-17:00:58.519 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 61325552 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:53571
+20170406-17:00:58.519 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 0 seconds
+20170406-17:00:58.552 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Received msg type 'D' when not logged on
+20170406-17:00:58.570 : Session reset: ResetOnDisconnect
+20170406-17:02:03.085 : Created session
+20170406-17:03:34.704 : Created session
+20170406-17:06:02.378 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 6552374 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:53961
+20170406-17:06:02.378 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 0 seconds
+20170406-17:06:02.451 : Received logon
+20170406-17:06:02.477 : Responding to logon request
+20170406-17:07:10.060 : Created session
+20170406-17:14:32.529 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 56251872 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:54425
+20170406-17:14:32.530 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 0 seconds
+20170406-17:14:32.592 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-17:14:32.615 : Session reset: Reset requested by counterparty
+20170406-17:14:32.621 : Received logon
+20170406-17:14:32.642 : Responding to logon request
+20170406-17:14:32.683 : Received logout request
+20170406-17:14:32.687 : Sending logout response
+20170406-17:14:32.689 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Received logout request
+20170406-17:14:42.017 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 15510466 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:54433
+20170406-17:14:42.017 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 30 seconds
+20170406-17:14:42.019 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Received msg type 'D' when not logged on
+20170406-17:14:50.164 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 38005127 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:54435
+20170406-17:14:50.164 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 30 seconds
+20170406-17:14:50.165 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Received msg type 'D' when not logged on
+20170406-17:14:50.165 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-17:14:50.195 : Session reset: Reset requested by counterparty
+20170406-17:14:50.195 : Received logon
+20170406-17:14:50.196 : Responding to logon request
+20170406-17:15:25.462 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 28106152 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:54445
+20170406-17:15:25.462 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 30 seconds
+20170406-17:15:25.463 : Received logon
+20170406-17:15:25.464 : Responding to logon request
+20170406-17:15:25.464 : MsgSeqNum too high, expecting 2 but received 3
+20170406-17:15:25.468 : Sent ResendRequest FROM: 2 TO: 0
+20170406-17:15:25.601 : ResendRequest for messages FROM: 2 TO: 0 has been satisfied.
+20170406-17:15:25.601 : Received SequenceReset FROM: 2 TO: 4
+20170406-17:27:22.707 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Socket exception (127.0.0.1:54445): An existing connection was forcibly closed by the remote host
+20170406-17:40:16.051 : Created session
+20170406-17:48:41.258 : Created session
+20170406-17:50:55.039 : Created session
+20170406-17:54:53.457 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 14201549 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:60045
+20170406-17:54:53.458 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 0 seconds
+20170406-17:54:53.563 : Verify failed: MsgSeqNum too low, expecting 16 but received 1
+20170406-17:54:53.564 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Verify failed: MsgSeqNum too low, expecting 16 but received 1
+20170406-17:54:55.304 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 61818251 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:60051
+20170406-17:54:55.304 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 0 seconds
+20170406-17:54:55.320 : Verify failed: MsgSeqNum too low, expecting 16 but received 3
+20170406-17:54:55.320 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Verify failed: MsgSeqNum too low, expecting 16 but received 3
+20170406-17:54:57.316 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 24775715 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:60064
+20170406-17:54:57.317 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 0 seconds
+20170406-17:54:57.338 : Verify failed: MsgSeqNum too low, expecting 16 but received 5
+20170406-17:54:57.338 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Verify failed: MsgSeqNum too low, expecting 16 but received 5
+20170406-17:55:00.321 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 16093329 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:60076
+20170406-17:55:00.321 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 0 seconds
+20170406-17:55:00.463 : Verify failed: MsgSeqNum too low, expecting 16 but received 7
+20170406-17:55:00.463 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Verify failed: MsgSeqNum too low, expecting 16 but received 7
+20170406-17:55:02.322 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 45671588 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:60082
+20170406-17:55:02.322 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 0 seconds
+20170406-17:55:02.340 : Verify failed: MsgSeqNum too low, expecting 16 but received 9
+20170406-17:55:02.341 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Verify failed: MsgSeqNum too low, expecting 16 but received 9
+20170406-17:55:05.323 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 26924617 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:60099
+20170406-17:55:05.323 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 0 seconds
+20170406-17:55:05.346 : Verify failed: MsgSeqNum too low, expecting 16 but received 11
+20170406-17:55:05.346 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Verify failed: MsgSeqNum too low, expecting 16 but received 11
+20170406-17:55:08.337 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 43954056 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:60108
+20170406-17:55:08.337 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 0 seconds
+20170406-17:55:08.396 : Verify failed: MsgSeqNum too low, expecting 16 but received 13
+20170406-17:55:08.396 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Verify failed: MsgSeqNum too low, expecting 16 but received 13
+20170406-17:55:10.344 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 36757288 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:60118
+20170406-17:55:10.344 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 0 seconds
+20170406-17:55:10.363 : Verify failed: MsgSeqNum too low, expecting 16 but received 15
+20170406-17:55:10.363 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Verify failed: MsgSeqNum too low, expecting 16 but received 15
+20170406-17:55:13.318 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 66219019 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:60131
+20170406-17:55:13.318 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 0 seconds
+20170406-17:55:13.323 : Received logon
+20170406-17:55:13.325 : Responding to logon request
+20170406-17:55:13.326 : MsgSeqNum too high, expecting 16 but received 17
+20170406-17:55:13.329 : Sent ResendRequest FROM: 16 TO: 0
+20170406-17:55:13.378 : Got resend request from 9 to 0
+20170406-17:55:13.392 : Sent SequenceReset TO: 25
+20170406-17:55:13.402 : ResendRequest for messages FROM: 16 TO: 0 has been satisfied.
+20170406-17:55:13.403 : Received SequenceReset FROM: 16 TO: 19
+20170406-17:56:16.505 : Received logout request
+20170406-17:56:16.607 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Socket exception (127.0.0.1:60131): An existing connection was forcibly closed by the remote host
+20170406-17:57:01.123 : Created session
+20170406-17:57:15.509 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 27669242 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:60786
+20170406-17:57:15.509 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 0 seconds
+20170406-17:57:15.582 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-17:57:15.601 : Session reset: Reset requested by counterparty
+20170406-17:57:15.613 : Session reset: ResetOnLogon
+20170406-17:57:15.619 : Received logon
+20170406-17:57:15.638 : Responding to logon request
+20170406-17:58:32.307 : Received logout request
+20170406-17:58:32.309 : Sending logout response
+20170406-17:58:32.347 : Session reset: ResetOnLogout
+20170406-17:58:32.348 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Received logout request
+20170406-17:58:32.363 : Session reset: ResetOnDisconnect
+20170406-18:20:03.962 : Created session
+20170406-18:37:16.155 : Created session
+20170406-18:38:53.108 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 5238555 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:51629
+20170406-18:38:53.108 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 0 seconds
+20170406-18:38:53.151 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-18:38:53.169 : Session reset: Reset requested by counterparty
+20170406-18:38:53.185 : Session reset: ResetOnLogon
+20170406-18:38:53.193 : Received logon
+20170406-18:38:53.211 : Responding to logon request
+20170406-18:39:33.976 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Socket exception (127.0.0.1:51629): An existing connection was forcibly closed by the remote host
+20170406-18:39:34.006 : Session reset: ResetOnDisconnect
+20170406-18:40:56.859 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 27778196 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:51706
+20170406-18:40:56.859 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 60 seconds
+20170406-18:40:56.859 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-18:40:56.953 : Session reset: Reset requested by counterparty
+20170406-18:40:56.976 : Session reset: ResetOnLogon
+20170406-18:40:56.978 : Received logon
+20170406-18:40:56.979 : Responding to logon request
+20170406-18:41:33.369 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Socket exception (127.0.0.1:51706): An existing connection was forcibly closed by the remote host
+20170406-18:41:33.397 : Session reset: ResetOnDisconnect
+20170406-18:43:02.682 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 64912252 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:51982
+20170406-18:43:02.682 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 60 seconds
+20170406-18:43:02.682 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-18:43:02.793 : Session reset: Reset requested by counterparty
+20170406-18:43:02.897 : Session reset: ResetOnLogon
+20170406-18:43:02.898 : Received logon
+20170406-18:43:02.899 : Responding to logon request
+20170406-18:43:19.284 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Socket exception (127.0.0.1:51982): An existing connection was forcibly closed by the remote host
+20170406-18:43:19.361 : Session reset: ResetOnDisconnect
+20170406-18:44:56.191 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 44615182 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:52028
+20170406-18:44:56.191 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 60 seconds
+20170406-18:44:56.191 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-18:44:56.211 : Session reset: Reset requested by counterparty
+20170406-18:44:56.243 : Session reset: ResetOnLogon
+20170406-18:44:56.244 : Received logon
+20170406-18:44:56.245 : Responding to logon request
+20170406-18:45:10.337 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Socket exception (127.0.0.1:52028): An existing connection was forcibly closed by the remote host
+20170406-18:45:10.370 : Session reset: ResetOnDisconnect
+20170406-18:45:18.634 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 12306663 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:52032
+20170406-18:45:18.634 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 60 seconds
+20170406-18:45:18.635 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-18:45:18.818 : Session reset: Reset requested by counterparty
+20170406-18:45:18.882 : Session reset: ResetOnLogon
+20170406-18:45:18.891 : Received logon
+20170406-18:45:18.892 : Responding to logon request
+20170406-18:45:45.956 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Socket exception (127.0.0.1:52032): An existing connection was forcibly closed by the remote host
+20170406-18:45:45.981 : Session reset: ResetOnDisconnect
+20170406-18:45:58.120 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 27544074 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:52046
+20170406-18:45:58.120 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 60 seconds
+20170406-18:45:58.120 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-18:45:58.136 : Session reset: Reset requested by counterparty
+20170406-18:45:58.161 : Session reset: ResetOnLogon
+20170406-18:45:58.162 : Received logon
+20170406-18:45:58.163 : Responding to logon request
+20170406-18:46:03.625 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Socket exception (127.0.0.1:52046): An existing connection was forcibly closed by the remote host
+20170406-18:46:03.685 : Session reset: ResetOnDisconnect
+20170406-18:47:03.700 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 4058663 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:52091
+20170406-18:47:03.700 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 60 seconds
+20170406-18:47:03.700 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-18:47:03.713 : Session reset: Reset requested by counterparty
+20170406-18:47:03.723 : Session reset: ResetOnLogon
+20170406-18:47:03.724 : Received logon
+20170406-18:47:03.725 : Responding to logon request
+20170406-18:47:51.325 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Socket exception (127.0.0.1:52091): An existing connection was forcibly closed by the remote host
+20170406-18:47:51.428 : Session reset: ResetOnDisconnect
+20170406-18:56:49.860 : Created session
+20170406-18:56:58.592 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 56251872 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:54774
+20170406-18:56:58.592 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 0 seconds
+20170406-18:56:58.670 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-18:56:58.706 : Session reset: Reset requested by counterparty
+20170406-18:56:58.754 : Session reset: ResetOnLogon
+20170406-18:56:58.779 : Received logon
+20170406-18:56:58.802 : Responding to logon request
+20170406-18:57:02.649 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Socket exception (127.0.0.1:54774): An existing connection was forcibly closed by the remote host
+20170406-18:57:02.674 : Session reset: ResetOnDisconnect
+20170406-18:57:24.335 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 55198763 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:54786
+20170406-18:57:24.335 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 60 seconds
+20170406-18:57:24.336 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-18:57:24.382 : Session reset: Reset requested by counterparty
+20170406-18:57:24.403 : Session reset: ResetOnLogon
+20170406-18:57:24.411 : Received logon
+20170406-18:57:24.412 : Responding to logon request
+20170406-18:58:34.013 : Created session
+20170406-18:58:42.133 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 15645912 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:54890
+20170406-18:58:42.133 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 0 seconds
+20170406-18:58:42.176 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-18:58:42.203 : Session reset: Reset requested by counterparty
+20170406-18:58:42.214 : Session reset: ResetOnLogon
+20170406-18:58:42.221 : Received logon
+20170406-18:58:42.239 : Responding to logon request
+20170406-19:00:42.438 : Created session
+20170406-19:01:05.240 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 56251872 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:55030
+20170406-19:01:05.241 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 0 seconds
+20170406-19:01:05.387 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-19:01:05.430 : Session reset: Reset requested by counterparty
+20170406-19:01:05.456 : Session reset: ResetOnLogon
+20170406-19:01:05.469 : Received logon
+20170406-19:01:05.492 : Responding to logon request
+20170406-19:01:25.384 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Socket exception (127.0.0.1:55030): An existing connection was forcibly closed by the remote host
+20170406-19:01:25.438 : Session reset: ResetOnDisconnect
+20170406-19:01:40.723 : Created session
+20170406-19:01:48.696 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 38583594 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:55059
+20170406-19:01:48.696 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 0 seconds
+20170406-19:01:48.735 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-19:01:48.783 : Session reset: Reset requested by counterparty
+20170406-19:01:48.803 : Session reset: ResetOnLogon
+20170406-19:01:48.813 : Received logon
+20170406-19:01:48.829 : Responding to logon request
+20170406-19:02:00.613 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Socket exception (127.0.0.1:55059): An existing connection was forcibly closed by the remote host
+20170406-19:02:00.666 : Session reset: ResetOnDisconnect
+20170406-19:02:09.944 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 64219123 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:55064
+20170406-19:02:09.944 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 60 seconds
+20170406-19:02:09.945 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-19:02:09.958 : Session reset: Reset requested by counterparty
+20170406-19:02:09.968 : Session reset: ResetOnLogon
+20170406-19:02:09.968 : Received logon
+20170406-19:02:09.969 : Responding to logon request
+20170406-19:04:13.256 : Created session
+20170406-19:04:21.418 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 56251872 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:55204
+20170406-19:04:21.418 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 0 seconds
+20170406-19:04:21.473 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-19:04:21.504 : Session reset: Reset requested by counterparty
+20170406-19:04:21.574 : Session reset: ResetOnLogon
+20170406-19:04:21.590 : Received logon
+20170406-19:04:21.606 : Responding to logon request
+20170406-19:05:43.480 : Created session
+20170406-19:05:59.723 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 56251872 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:55380
+20170406-19:05:59.723 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 0 seconds
+20170406-19:05:59.770 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-19:05:59.856 : Session reset: Reset requested by counterparty
+20170406-19:05:59.873 : Session reset: ResetOnLogon
+20170406-19:05:59.880 : Received logon
+20170406-19:05:59.898 : Responding to logon request
+20170406-19:16:33.924 : Created session
+20170406-19:17:10.451 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 56251872 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:55832
+20170406-19:17:10.452 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 0 seconds
+20170406-19:17:10.497 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-19:17:10.518 : Session reset: Reset requested by counterparty
+20170406-19:17:10.531 : Session reset: ResetOnLogon
+20170406-19:17:10.539 : Received logon
+20170406-19:17:10.557 : Responding to logon request
+20170406-19:17:29.450 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Socket exception (127.0.0.1:55832): An existing connection was forcibly closed by the remote host
+20170406-19:17:29.512 : Session reset: ResetOnDisconnect
+20170406-19:18:44.724 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 38005127 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:56081
+20170406-19:18:44.724 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 60 seconds
+20170406-19:18:44.725 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-19:18:44.741 : Session reset: Reset requested by counterparty
+20170406-19:18:44.757 : Session reset: ResetOnLogon
+20170406-19:18:44.758 : Received logon
+20170406-19:18:44.759 : Responding to logon request
+20170406-19:27:41.286 : Created session
+20170406-19:28:14.756 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 56251872 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:56601
+20170406-19:28:14.757 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 0 seconds
+20170406-19:28:14.801 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-19:28:14.826 : Session reset: Reset requested by counterparty
+20170406-19:28:14.842 : Session reset: ResetOnLogon
+20170406-19:28:14.850 : Received logon
+20170406-19:28:14.868 : Responding to logon request
+20170406-19:28:50.293 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Socket exception (127.0.0.1:56601): An existing connection was forcibly closed by the remote host
+20170406-19:28:50.371 : Session reset: ResetOnDisconnect
+20170406-19:42:03.839 : Created session
+20170406-20:02:01.826 : Created session
+20170406-20:02:58.623 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 56251872 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:63305
+20170406-20:02:58.623 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 0 seconds
+20170406-20:02:58.665 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-20:02:58.682 : Session reset: Reset requested by counterparty
+20170406-20:02:58.700 : Session reset: ResetOnLogon
+20170406-20:02:58.710 : Received logon
+20170406-20:02:58.738 : Responding to logon request
+20170406-20:04:34.840 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Socket exception (127.0.0.1:63305): An existing connection was forcibly closed by the remote host
+20170406-20:04:34.872 : Session reset: ResetOnDisconnect
+20170406-20:04:49.615 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 59457177 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:63414
+20170406-20:04:49.615 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 60 seconds
+20170406-20:04:49.615 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-20:04:49.628 : Session reset: Reset requested by counterparty
+20170406-20:04:49.703 : Session reset: ResetOnLogon
+20170406-20:04:49.704 : Received logon
+20170406-20:04:49.705 : Responding to logon request
+20170406-20:05:19.775 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Socket exception (127.0.0.1:63414): An existing connection was forcibly closed by the remote host
+20170406-20:05:19.806 : Session reset: ResetOnDisconnect
+20170406-20:12:37.776 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 583311 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:63690
+20170406-20:12:37.776 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 60 seconds
+20170406-20:12:37.776 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-20:12:37.792 : Session reset: Reset requested by counterparty
+20170406-20:12:37.801 : Session reset: ResetOnLogon
+20170406-20:12:37.802 : Received logon
+20170406-20:12:37.802 : Responding to logon request
+20170406-20:13:20.466 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Socket exception (127.0.0.1:63690): An existing connection was forcibly closed by the remote host
+20170406-20:13:20.510 : Session reset: ResetOnDisconnect
+20170406-20:22:12.401 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 12306663 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:63991
+20170406-20:22:12.401 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 60 seconds
+20170406-20:22:12.401 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-20:22:12.412 : Session reset: Reset requested by counterparty
+20170406-20:22:12.421 : Session reset: ResetOnLogon
+20170406-20:22:12.422 : Received logon
+20170406-20:22:12.423 : Responding to logon request
+20170406-20:23:06.076 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Socket exception (127.0.0.1:63991): An existing connection was forcibly closed by the remote host
+20170406-20:23:06.112 : Session reset: ResetOnDisconnect
+20170406-20:23:51.097 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 38973707 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:64026
+20170406-20:23:51.097 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 60 seconds
+20170406-20:23:51.097 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-20:23:51.112 : Session reset: Reset requested by counterparty
+20170406-20:23:51.130 : Session reset: ResetOnLogon
+20170406-20:23:51.131 : Received logon
+20170406-20:23:51.132 : Responding to logon request
+20170406-20:25:14.370 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Socket exception (127.0.0.1:64026): An existing connection was forcibly closed by the remote host
+20170406-20:25:14.395 : Session reset: ResetOnDisconnect
+20170406-20:26:17.438 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 32162624 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:64086
+20170406-20:26:17.438 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 60 seconds
+20170406-20:26:17.438 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-20:26:17.449 : Session reset: Reset requested by counterparty
+20170406-20:26:17.460 : Session reset: ResetOnLogon
+20170406-20:26:17.460 : Received logon
+20170406-20:26:17.461 : Responding to logon request
+20170406-20:29:13.291 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Socket exception (127.0.0.1:64086): An existing connection was forcibly closed by the remote host
+20170406-20:29:13.329 : Session reset: ResetOnDisconnect
+20170406-20:31:52.125 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 2271016 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:64753
+20170406-20:31:52.126 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 60 seconds
+20170406-20:31:52.129 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-20:31:52.144 : Session reset: Reset requested by counterparty
+20170406-20:31:52.159 : Session reset: ResetOnLogon
+20170406-20:31:52.163 : Received logon
+20170406-20:31:52.163 : Responding to logon request
+20170406-20:32:39.914 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Socket exception (127.0.0.1:64753): An existing connection was forcibly closed by the remote host
+20170406-20:32:39.949 : Session reset: ResetOnDisconnect
+20170406-20:32:51.689 : FIX.4.2:ACCEPTOR->SABERIN Socket Reader 41616879 accepting session FIX.4.2:ACCEPTOR->SABERIN from 127.0.0.1:64794
+20170406-20:32:51.689 : FIX.4.2:ACCEPTOR->SABERIN Acceptor heartbeat set to 60 seconds
+20170406-20:32:51.690 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20170406-20:32:51.701 : Session reset: Reset requested by counterparty
+20170406-20:32:51.710 : Session reset: ResetOnLogon
+20170406-20:32:51.710 : Received logon
+20170406-20:32:51.711 : Responding to logon request
+20170406-20:41:45.279 : Session FIX.4.2:ACCEPTOR->SABERIN disconnecting: Socket exception (127.0.0.1:64794): An existing connection was forcibly closed by the remote host
+20170406-20:41:45.347 : Session reset: ResetOnDisconnect
+20170407-11:28:48.816 : Session FIX.4.2:ACCEPTOR->SABERIN already disconnected: Resetting...
+20170407-11:28:48.852 : Session reset: New session
+20170407-11:28:48.855 : Created session
